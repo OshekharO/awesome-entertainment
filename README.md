@@ -88,6 +88,8 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## Application
 
+* [Shosetsu](https://github.com/shosetsuorg/shosetsu)
+* [LNReader](https://github.com/LNReader/lnreader)
 * [Yukino](https://github.com/rhygg/yukino-app)
 * [OtakuWorld](https://github.com/jakepurple13/OtakuWorld#mangaworld)
 * [Kayuri](https://github.com/Killerpac/Kayuri)
@@ -98,6 +100,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Tachiyomi](https://tachiyomi.org)
 * [CloudStream 3](https://github.com/LagradOst/CloudStream-3)
 * [Saikou](https://github.com/saikou-app/saikou)
+* [Kotatsu](https://github.com/nv95/Kotatsu)
 
 ---
 <h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
