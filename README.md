@@ -43,6 +43,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## Manga
 
+* [Saikou](https://github.com/saikou-app/saikou)
 * [Manganato](https://manganato.com)
 * [Mangadex](https://mangadex.org)
 * [Mangafreak](https://w12.mangafreak.net)
