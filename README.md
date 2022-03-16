@@ -47,7 +47,10 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Manganato](https://manganato.com)
 * [Mangadex](https://mangadex.org)
 * [Mangafreak](https://w12.mangafreak.net)
-* [mangabat](https://mangabat.com)
+* [Mangabat](https://mangabat.com)
+* [Mangapark](https://mangapark.net)
+* [Kissmanga](https://kissmanga.org)
+* [Mangatx](https://mangatx.com)
 
 ## Anime
 
@@ -101,6 +104,8 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [CloudStream 3](https://github.com/LagradOst/CloudStream-3)
 * [Saikou](https://github.com/saikou-app/saikou)
 * [Kotatsu](https://github.com/nv95/Kotatsu)
+* [Cineapp](https://github.com/vendz/Cineapp)
+* [AnimeXStream](https://github.com/mukul500/AnimeXStream)
 
 ---
 <h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
