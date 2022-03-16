@@ -6,23 +6,24 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## Movies & Series
 
-* [CloudStream 3](https://github.com/LagradOst/CloudStream-3)
 * [Ecinema](https://ecinema.ml)
+* [Prettyflix](https://www.prettyflix.gq)
 * [Prmovies](https://prmovies.ph)
 * [Movies2Watch](https://movies2watch.tv)
 * [M4UHD](https://m4uhd.tv)
 * [123movie](https://www.123movie.lc)
-* [watchasian](https://watchasian.ac/)
+* [watchasian](https://watchasian.ac)
 * [fmovies](https://fmovies.to)
 * [sflix](https://sflix.to/)
 * [bflix](https://www6.bflix.to/)
+* [Squeezebox](https://movie.squeezebox.dev)
+* [Privatehd](https://www.privatehd.xyz)
+* [Cmovies](https://cmovies.online)
+* [Moviesee](https://moviesee.live)
 
 ## Light Novel
 
-* [QuickNovel](https://github.com/LagradOst/QuickNovel)
-* [Neko](https://github.com/CarlosEsco/Neko)
-* [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
-* [Tachiyomi](https://tachiyomi.org)
+* [Uncoder](https://uncoder.eu.org)
 * [Mtlnation](https://mtlnation.com)
 * [Comrademao](https://comrademao.com)
 * [Mtlnovel](https://www.mtlnovel.com)
@@ -43,7 +44,6 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## Manga
 
-* [Saikou](https://github.com/saikou-app/saikou)
 * [Manganato](https://manganato.com)
 * [Mangadex](https://mangadex.org)
 * [Mangafreak](https://w12.mangafreak.net)
@@ -51,8 +51,6 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## Anime
 
-* [Kayuri](https://github.com/Killerpac/Kayuri)
-* [Animity](https://github.com/kl3jvi/animity)
 * [Animania](https://animania.co.uk)
 * [Gogoanimeapk](https://gogoanimeapk.net)
 * [9anime](https://9anime.vc)
@@ -60,8 +58,12 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Animekisa](https://animekisa.in)
 * [kiss-anime](https://ww1.kiss-anime.org)
 * [Animixplay](https://animixplay.to)
-* [wcostream](https://wcostream.cc/)
-* [kayoanime](https://kayoanime.com/)
+* [wcostream](https://wcostream.cc)
+* [kayoanime](https://kayoanime.com)
+* [Anime-World](https://anime-world.in)
+* [123animes](https://123animes.ru)
+* [Animefox](https://animefox.sbs)
+* [Animeworld](https://www.animeworld.tv)
 
 ## NSFW
 
@@ -83,6 +85,19 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Hentai2read](https://hentai2read.com)
 * [Tsumino](https://www.tsumino.com)
 * [8muses](https://comics.8muses.com)
+
+## Application
+
+* [Yukino](https://github.com/rhygg/yukino-app)
+* [OtakuWorld](https://github.com/jakepurple13/OtakuWorld#mangaworld)
+* [Kayuri](https://github.com/Killerpac/Kayuri)
+* [Animity](https://github.com/kl3jvi/animity)
+* [QuickNovel](https://github.com/LagradOst/QuickNovel)
+* [Neko](https://github.com/CarlosEsco/Neko)
+* [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
+* [Tachiyomi](https://tachiyomi.org)
+* [CloudStream 3](https://github.com/LagradOst/CloudStream-3)
+* [Saikou](https://github.com/saikou-app/saikou)
 
 ---
 <h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
