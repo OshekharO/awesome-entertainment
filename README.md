@@ -82,6 +82,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Hentaihere](https://hentaihere.com)
 * [Hentai2read](https://hentai2read.com)
 * [Tsumino](https://www.tsumino.com)
+* [8muses](https://comics.8muses.com)
 
 ---
 <h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
