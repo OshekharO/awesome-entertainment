@@ -10,6 +10,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Prettyflix](https://www.prettyflix.gq)
 * [Prmovies](https://prmovies.ph)
 * [Movies2Watch](https://movies2watch.tv)
+* [Allmoviesforyou](https://allmoviesforyou.net)
 * [M4UHD](https://m4uhd.tv)
 * [123movie](https://www.123movie.lc)
 * [watchasian](https://watchasian.ac)
@@ -20,6 +21,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Privatehd](https://www.privatehd.xyz)
 * [Cmovies](https://cmovies.online)
 * [Moviesee](https://moviesee.live)
+* [Vmovee](https://www.vmovee.watch)
 
 ## Light Novel
 
@@ -67,6 +69,9 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [123animes](https://123animes.ru)
 * [Animefox](https://animefox.sbs)
 * [Animeworld](https://www.animeworld.tv)
+* [Allanime](https://allanime.site)
+* [Animeflick](https://animeflick.net)
+* [Gogoanime](https://gogoanime.gg)
 
 ## NSFW
 
