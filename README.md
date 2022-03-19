@@ -73,6 +73,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Allanime](https://allanime.site)
 * [Animeflick](https://animeflick.net)
 * [Gogoanime](https://gogoanime.gg)
+* [Kimanime](https://kimanime.com)
 
 ## NSFW
 
