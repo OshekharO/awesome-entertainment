@@ -1,0 +1,22 @@
+body {
+  background: #c0cde9;
+}
+h1, h2, h3, th, a.chenge {
+  color: #44aeea;
+}
+li, a, td {
+  color: #6490cd;
+}
+
+a {
+  text-decoration: underline;
+}
+
+th, td, table {
+  border-collapse: collapse;
+  border: 1px solid #6490cd;
+}
+
+.chenge {
+  font-size: 15px;
+}
