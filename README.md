@@ -129,10 +129,13 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [uYouPlus](https://github.com/qnblackcat/uYouPlus)
 * [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
 * [PureTuber](https://4pda.to/forum/index.php?showtopic=1013193)
+* [Sftube](https://github.com/prateekmedia/sftube)
 
 ## YouTube Music
 
 * [BlackHole](https://github.com/Sangwan5688/BlackHole)
 * [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
+* [Spotube](https://github.com/KRTirtho/spotube)
+
 ---
 <h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
