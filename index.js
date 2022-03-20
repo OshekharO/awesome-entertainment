@@ -11,7 +11,7 @@ const app = new Vue({
     mdlink : ""
   },
   created: function(){
-    this.get_md_text(pass_char.anime); 
+    this.get_md_text(pass_char.README); 
   },
   computed:{
     mdMakeup : function(){
@@ -30,10 +30,10 @@ const app = new Vue({
     },
     chenge : function(){
       window.scrollTo(0,0);
-      if(this.mdlink === pass_char.anime){
+      if(this.mdlink === pass_char.README){
         this.get_md_text(pass_char.before); 
       }else{
-        this.get_md_text(pass_char.anime);
+        this.get_md_text(pass_char.README);
       }
     }
   }
