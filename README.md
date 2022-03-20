@@ -54,6 +54,9 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Mangapark](https://mangapark.net)
 * [Kissmanga](https://kissmanga.org)
 * [Mangatx](https://mangatx.com)
+* [Mangabuddy](https://mangabuddy.com)
+* [Mangapill](https://mangapill.com)
+* [Mangareader](https://mangareader.to)
 
 ## Anime
 
@@ -74,6 +77,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Animeflick](https://animeflick.net)
 * [Gogoanime](https://gogoanime.gg)
 * [Kimanime](https://kimanime.com)
+* [Zoro](https://zoro.to)
 
 ## NSFW
 
@@ -114,5 +118,21 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Cineapp](https://github.com/vendz/Cineapp)
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream)
 
+## YouTube Clients
+
+* [LibreTube](https://github.com/libre-tube/LibreTube)
+* [SongTube](https://github.com/SongTube/SongTube-App)
+* [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+* [NewPipe-SB](https://github.com/polymorphicshade/NewPipe)
+* [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
+* [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+* [uYouPlus](https://github.com/qnblackcat/uYouPlus)
+* [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
+* [PureTuber](https://4pda.to/forum/index.php?showtopic=1013193)
+
+## YouTube Music
+
+* [BlackHole](https://github.com/Sangwan5688/BlackHole)
+* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 ---
 <h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
