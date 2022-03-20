@@ -22,6 +22,16 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Cmovies](https://cmovies.online)
 * [Moviesee](https://moviesee.live)
 * [Vmovee](https://www.vmovee.watch)
+* [Filmywap](https://www.filmywap.skin)
+* [Filmyzilla](https://filmyzilla.makeup)
+* [Filmymeet](https://www33.filmymeet.co)
+* [Lookmovie2](https://lookmovie2.to)
+* [Downloadhub](https://downloadhub.bar)
+* [Ibomma](https://ww8.ibomma.bar)
+* [Dvdplay](https://dvdplay.guru)
+* [Foumovies](https://www.foumovies.to)
+* [1tamilmv](https://www.1tamilmv.cool)
+* [Moviespapa](https://moviespapa.green)
 
 ## Light Novel
 
@@ -29,6 +39,12 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Mtlnation](https://mtlnation.com)
 * [Comrademao](https://comrademao.com)
 * [Mtlnovel](https://www.mtlnovel.com)
+* [Wnmtl](https://www.wnmtl.org)
+* [Lnmtl](https://lnmtl.com)
+* [Daonovel](https://daonovel.com)
+* [Boxnovel](https://boxnovel.com)
+* [Listnovel](https://listnovel.com)
+* [Readlightnovel](https://www.readlightnovel.me)
 * [Royalroad](https://www.royalroad.com)
 * [Soxscc](https://soxscc.org)
 * [Imiaobige](https://imiaobige.com)
@@ -44,6 +60,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Wushuzw](http://wap.wushuzw.com)
 * [Yipinxia](https://www.yipinxia.net)
 * [Yushubo](https://yushubo.com)
+* [JPmtl](https://jpmtl.com)
 
 ## Manga
 
@@ -61,6 +78,12 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Mangatown](https://m.mangatown.com)
 * [ReadComic](https://readcomiconline.li)
 * [ComicExtra](https://www.comicextra.com)
+* [Ninemanga](https://ninemanga.com)
+* [Readm](https://readm.org)
+* [Mangaweed](https://mangaweed.com)
+* [Manhuafast](https://manhuafast.com)
+* [Mangahub](https://mangahub.io)
+* [Mangaowls](https://mangaowls.com)
 
 ## Anime
 
@@ -71,16 +94,18 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Animekisa](https://animekisa.in)
 * [kiss-anime](https://ww1.kiss-anime.org)
 * [Animixplay](https://animixplay.to)
-* [wcostream](https://wcostream.cc)
-* [kayoanime](https://kayoanime.com)
+* [Simplyaweeb](https://simplyaweeb.to/anime/)
+* [Wcostream](https://wcostream.cc)
+* [Kayoanime](https://kayoanime.com)
 * [Anime-World](https://anime-world.in)
 * [123animes](https://123animes.ru)
 * [Animefox](https://animefox.sbs)
 * [Animeworld](https://www.animeworld.tv)
 * [Allanime](https://allanime.site)
 * [Animeflick](https://animeflick.net)
-* [Gogoanime](https://gogoanime.gg)
+* [Gogoanime](https://gogoanime.fi)
 * [Kimanime](https://kimanime.com)
+* [Animet](https://animet.tv)
 * [Zoro](https://zoro.to)
 
 ## NSFW
@@ -90,8 +115,9 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [nhentai](https://nhentai.net)
 * [Literotica](https://search.literotica.com)
 * [Toonily](https://toonily.me)
-* [Hanime](https://hanime.tv/)
+* [Hanime](https://hanime.tv)
 * [Hentaihaven](https://hentaihaven.xxx)
+* [Animeidhentai](https://animeidhentai.com)
 * [18comic](https://18comic.vip)
 * [Eromangram](https://eromangram.com)
 * [Cartoon18](https://www.cartoon18.com)
@@ -104,6 +130,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Tsumino](https://www.tsumino.com)
 * [8muses](https://comics.8muses.com)
 * [A-hentai](https://a-hentai.tv)
+* [Haho](https://haho.moe)
 
 ## Application
 
@@ -122,6 +149,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Kotatsu](https://github.com/nv95/Kotatsu)
 * [Cineapp](https://github.com/vendz/Cineapp)
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream)
+* [Aniyomi](https://github.com/jmir1/aniyomi)
 
 ## YouTube Clients
 
