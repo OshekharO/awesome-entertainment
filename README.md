@@ -57,6 +57,10 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Mangabuddy](https://mangabuddy.com)
 * [Mangapill](https://mangapill.com)
 * [Mangareader](https://mangareader.to)
+* [FanFox](https://m.fanfox.net)
+* [Mangatown](https://m.mangatown.com)
+* [ReadComic](https://readcomiconline.li)
+* [ComicExtra](https://www.comicextra.com)
 
 ## Anime
 
@@ -99,6 +103,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Hentai2read](https://hentai2read.com)
 * [Tsumino](https://www.tsumino.com)
 * [8muses](https://comics.8muses.com)
+* [A-hentai](https://a-hentai.tv)
 
 ## Application
 
