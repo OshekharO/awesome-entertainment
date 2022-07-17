@@ -4,36 +4,46 @@
 
 Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). 
 
-## Movies & Series
+## 🎬 Movies & Series
 
 * [Ecinema](https://ecinema.ml)
-* [Prettyflix](https://www.prettyflix.gq)
-* [Prmovies](https://prmovies.ph)
-* [Movies2Watch](https://movies2watch.tv)
+* [SauFlix](https://sauflix.com)
+* [Prmovies](https://prmovies.one)
+* [Movies2Watch](https://movies2watch.is)
 * [Allmoviesforyou](https://allmoviesforyou.net)
 * [M4UHD](https://m4uhd.tv)
 * [123movie](https://www.123movie.lc)
 * [watchasian](https://watchasian.ac)
 * [fmovies](https://fmovies.to)
 * [Sflix](https://sflix.to/)
-* [Bflix](https://www6.bflix.to/)
+* [Bflix](https://bflix.ru)
 * [Squeezebox](https://movie.squeezebox.dev)
 * [Privatehd](https://www.privatehd.xyz)
-* [Cmovies](https://cmovies.online)
+* [Cmovies](https://cmovies.vc)
 * [Moviesee](https://moviesee.live)
-* [Vmovee](https://www.vmovee.watch)
-* [Filmywap](https://www.filmywap.skin)
-* [Filmyzilla](https://filmyzilla.makeup)
-* [Filmymeet](https://www33.filmymeet.co)
+* [Vmovee](https://vmovee.com)
+* [Filmywap](https://www.filmywap.webcam)
+* [Filmyzilla](https://filmyzilla.expert)
+* [Filmymeet](https://www35.filmymeet.co)
 * [Lookmovie2](https://lookmovie2.to)
-* [Downloadhub](https://downloadhub.bar)
+* [Downloadhub](https://downloadhub.pics)
 * [Ibomma](https://ww8.ibomma.bar)
-* [Dvdplay](https://dvdplay.guru)
+* [Dvdplay](https://dvdplay.lol)
 * [Foumovies](https://www.foumovies.to)
-* [1tamilmv](https://www.1tamilmv.cool)
-* [Moviespapa](https://moviespapa.green)
+* [1tamilmv](https://www.1tamilmv.click)
+* [Moviespapa](https://moviespapa.media)
+* [UwatchFree](https://uwatchfree.be)
+* [WatchToday](https://watchtoday.tv)
+* [8xmovies](https://8xmovies.beauty)
+* [Gimy](https://gimy.app)
+* [Dramanice](https://dramanice.video)
+* [Yepdrama](https://yepdrama.com)
+* [Soap2Daygo](https://soap2daygo.co)
+* [Drama](https://drama.cx)
+* [Melomovie](https://melomovie.com)
+* [FilmyHunk](https://v.filmyhunk.cc)
 
-## Light Novel
+## 📖 Light Novel
 
 * [Uncoder](https://uncoder.eu.org)
 * [Mtlnation](https://mtlnation.com)
@@ -46,9 +56,8 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Listnovel](https://listnovel.com)
 * [Readlightnovel](https://www.readlightnovel.me)
 * [Royalroad](https://www.royalroad.com)
-* [Soxscc](https://soxscc.org)
-* [Imiaobige](https://imiaobige.com)
 * [Ffxs8](http://www.ffxs8.com)
+* [Feiszw](https://m.feiszw.com)
 * [Sfacg](https://m.sfacg.com)
 * [17k](https://h5.17k.com)
 * [Wangshuge](https://m.wangshuge.com)
@@ -62,7 +71,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Yushubo](https://yushubo.com)
 * [JPmtl](https://jpmtl.com)
 
-## Manga
+## 🖼️ Manga
 
 * [Manganato](https://manganato.com)
 * [Mangadex](https://mangadex.org)
@@ -85,7 +94,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Mangahub](https://mangahub.io)
 * [Mangaowls](https://mangaowls.com)
 
-## Anime
+## 📺 Anime
 
 * [Animania](https://animania.co.uk)
 * [Gogoanimeapk](https://gogoanimeapk.net)
@@ -108,7 +117,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Animet](https://animet.tv)
 * [Zoro](https://zoro.to)
 
-## NSFW
+## 🔞 NSFW
 
 * [Doujins](https://doujins.me)
 * [Manytoon](https://manytoon.com)
@@ -131,9 +140,13 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [8muses](https://comics.8muses.com)
 * [A-hentai](https://a-hentai.tv)
 * [Haho](https://haho.moe)
+* [EhPanda](https://github.com/tatsuz0u/EhPanda)
+* [NClientV2](https://github.com/Dar9586/NClientV2)
+* [Hentoid](https://github.com/avluis/Hentoid)
 
-## Application
+## 📱 Application
 
+* [CineMax](https://github.com/BeamlakAschalew/cinemax)
 * [Shosetsu](https://github.com/shosetsuorg/shosetsu)
 * [LNReader](https://github.com/LNReader/lnreader)
 * [Yukino](https://github.com/rhygg/yukino-app)
@@ -151,11 +164,13 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 
-## YouTube Clients
+## 🎭 YouTube Clients
 
 * [LibreTube](https://github.com/libre-tube/LibreTube)
+* [VueTube](https://github.com/Frontesque/VueTube)
 * [SongTube](https://github.com/SongTube/SongTube-App)
 * [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+* [ReVanced](https://github.com/revanced)
 * [NewPipe-SB](https://github.com/polymorphicshade/NewPipe)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube)
@@ -164,11 +179,16 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [PureTuber](https://4pda.to/forum/index.php?showtopic=1013193)
 * [Sftube](https://github.com/prateekmedia/sftube)
 
-## YouTube Music
+## 🎧 YouTube Music
 
 * [BlackHole](https://github.com/Sangwan5688/BlackHole)
 * [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 * [Spotube](https://github.com/KRTirtho/spotube)
+* [HoloPlay](https://github.com/stephane-r/HoloPlay)
+* [MusicPiped](https://github.com/deep-gaurav/MusicPiped)
+* [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
+* [Ymusic](https://ymusic.io)
+* [Musify](https://github.com/gokadzev/Musify)
 
 ---
 <h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
