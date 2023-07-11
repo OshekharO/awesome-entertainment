@@ -131,108 +131,83 @@ left: 15px;
     <!-- Sections and their corresponding items will be dynamically appended here -->
   </div>
   <script>
-fetch('data.json')
+  fetch('data.json')
   .then(response => response.json())
   .then(data => {
-    appendCategories(data.categories);
-    appendSections(data.sections);
+    appendSections(data.movies_and_tv_series, '#movie', 'Movie\'s And Tv Series');
+    appendSections(data.anime_websites, '#anime', 'Website For Watching Animes');
   })
   .catch(error => console.error(error));
 
-function appendCategories(categories) {
-  const categoriesContainer = document.getElementById('categories');
-  
-  categories.forEach(category => {
-    const catItem = document.createElement('div');
-    catItem.classList.add('cat-item');
-    
-    const catLink = document.createElement('a');
-    catLink.classList.add('cat');
-    catLink.href = category.href;
-    
-    const catIcon = document.createElement('i');
-    catIcon.classList.add('fas', category.icon, 'fa-lg', 'caticon');
-    
-    const catText = document.createTextNode(` ${category.name}`);
-    
-    catLink.appendChild(catIcon);
-    catLink.appendChild(catText);
-    catItem.appendChild(catLink);
-    
-    categoriesContainer.appendChild(catItem);
-  });
-}
-
-function appendSections(sections) {
+function appendSections(items, sectionId, sectionTitle) {
   const sectionContainer = document.querySelector('.section');
   
-  sections.forEach(section => {
-    const sectionHeader = document.createElement('h4');
-    sectionHeader.classList.add('w3-center');
+  const sectionHeader = document.createElement('h4');
+  sectionHeader.classList.add('w3-center');
+  
+  const sectionLink = document.createElement('a');
+  sectionLink.href = sectionId;
+  sectionLink.classList.add('anchor');
+  
+  const sectionIcon = document.createElement('i');
+  sectionIcon.classList.add('fas', 'fa-video');
+  
+  const sectionTitleText = document.createTextNode(sectionTitle);
+  
+  sectionLink.appendChild(sectionIcon);
+  sectionHeader.appendChild(sectionLink);
+  sectionHeader.appendChild(sectionTitleText);
+  
+  sectionContainer.appendChild(sectionHeader);
+  
+  items.forEach(item => {
+    const container = document.createElement('div');
+    container.classList.add('container');
     
-    const sectionLink = document.createElement('a');
-    sectionLink.href = section.href;
-    sectionLink.classList.add('anchor');
+    const image = document.createElement('img');
+    image.classList.add('app');
+    image.src = item.image_src;
     
-    const sectionIcon = document.createElement('i');
-    sectionIcon.classList.add('fas', section.icon);
+    const appLink = document.createElement('a');
+    appLink.href = item.link;
+    appLink.target = '_blank';
+    appLink.classList.add('app');
     
-    const sectionTitle = document.createTextNode(` ${section.title}`);
+    const appTitle = document.createElement('h5');
+    appTitle.classList.add('app');
+    appTitle.textContent = item.title;
     
-    sectionLink.appendChild(sectionIcon);
-    sectionHeader.appendChild(sectionLink);
-    sectionHeader.appendChild(sectionTitle);
+    const appIcon = document.createElement('i');
+    appIcon.classList.add('fas', 'fa-link', 'fa-sm', 'hideicon');
     
-    sectionContainer.appendChild(sectionHeader);
+    const tagsContainer = document.createElement('div');
+    tagsContainer.classList.add('tags');
     
-    section.items.forEach(item => {
-      const container = document.createElement('div');
-      container.classList.add('container');
+    item.tags.forEach(tag => {
+      const tagSpan = document.createElement('span');
+      tagSpan.classList.add('tag');
       
-      const image = document.createElement('img');
-      image.classList.add('app');
-      image.src = item.image_src;
+      const tagIcon = document.createElement('i');
+      tagIcon.classList.add('fas', 'fa-tachometer-alt');
       
-      const appLink = document.createElement('a');
-      appLink.href = item.link;
-      appLink.target = '_blank';
-      appLink.classList.add('app');
+      const tagText = document.createTextNode(` ${tag}`);
       
-      const appTitle = document.createElement('h5');
-      appTitle.classList.add('app');
-      appTitle.textContent = item.title;
+      tagSpan.appendChild(tagIcon);
+      tagSpan.appendChild(tagText);
       
-      const appIcon = document.createElement('i');
-      appIcon.classList.add('fas', 'fa-link', 'fa-sm', 'hideicon');
-      
-      const tagsContainer = document.createElement('div');
-      tagsContainer.classList.add('tags');
-      
-      item.tags.forEach(tag => {
-        const tagSpan = document.createElement('span');
-        tagSpan.classList.add('tag');
-        
-        const tagIcon = document.createElement('i');
-        tagIcon.classList.add('fas', 'fa-tachometer-alt');
-        
-        const tagText = document.createTextNode(` ${tag}`);
-        
-        tagSpan.appendChild(tagIcon);
-        tagSpan.appendChild(tagText);
-        
-        tagsContainer.appendChild(tagSpan);
-      });
-      
-      appLink.appendChild(appTitle);
-      appLink.appendChild(appIcon);
-      container.appendChild(image);
-      container.appendChild(appLink);
-      container.appendChild(tagsContainer);
-      
-      sectionContainer.appendChild(container);
+      tagsContainer.appendChild(tagSpan);
     });
+    
+    appLink.appendChild(appTitle);
+    appLink.appendChild(appIcon);
+    container.appendChild(image);
+    container.appendChild(appLink);
+    container.appendChild(tagsContainer);
+    
+    sectionContainer.appendChild(container);
   });
-  }
+}
+    
   </script>
   </body>
 </html>
