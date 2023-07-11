@@ -1,0 +1,224 @@
+{
+  "movies_and_tv_series": [
+    {
+      "image_src": "https://www.privacytools.io/img/apps/firefox.svg",
+      "link": "https://ecinema.ml",
+      "title": "Ecinema: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/tor.svg",
+      "link": "https://sauflix.com",
+      "title": "SauFlix: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/brave.svg",
+      "link": "https://prmovies.one",
+      "title": "Prmovies: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/brave.svg",
+      "link": "https://olgply.com/",
+      "title": "Olgply: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/duckduckgo.svg",
+      "link": "https://movie.squeezebox.dev/",
+      "title": "Squeezebox: Reliable, fast and ad-free",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/bromite.svg",
+      "link": "https://www.vmovee.watch/",
+      "title": "Vmovee: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://movies2watch.is",
+      "title": "Movies2Watch: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://allmoviesforyou.net/",
+      "title": "Allmoviesforyou: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://m4uhd.tv/",
+      "title": "m4uhd: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://sflix.to/",
+      "title": "sflix: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://www.privatehd.xyz/",
+      "title": "Privatehd: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://moviesee.live/",
+      "title": "Moviesee: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://fmovies.to/",
+      "title": "Fmovies: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://watchasian.ac",
+      "title": "Watchasian: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://filmyzilla.makeup/",
+      "title": "Filmyzilla: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://www33.filmymeet.co/",
+      "title": "Filmymeet: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/onion-browser.svg",
+      "link": "https://downloadhub.bar/",
+      "title": "Downloadhub: Reliable, fast and privacy friendly",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    }
+  ],
+  "anime_websites": [
+    {
+      "image_src": "https://www.privacytools.io/img/apps/ublock-origin.svg",
+      "link": "https://gogoanime.fi",
+      "title": "Gogoanime: Reliable, fast and huge collection",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/ublock-origin.svg",
+      "link": "https://animixplay.to/",
+      "title": "Animixplay: Reliable, fast and huge collection",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/ublock-origin.svg",
+      "link": "https://zoro.to/",
+      "title": "Zoro: Reliable, fast and huge collection",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/ublock-origin.svg",
+      "link": "https://animeflick.net",
+      "title": "Animeflick: Reliable, fast and huge collection",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/ublock-origin.svg",
+      "link": "https://www.animeworld.tv/",
+      "title": "Animeworld: Reliable, fast and huge collection",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/ublock-origin.svg",
+      "link": "https://animefox.sbs/",
+      "title": "Animefox: Reliable, fast and huge collection",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    },
+    {
+      "image_src": "https://www.privacytools.io/img/apps/ublock-origin.svg",
+      "link": "https://allanime.site",
+      "title": "Allanime: Reliable, fast and huge collection",
+      "tags": [
+        "Fast",
+        "Web"
+      ]
+    }
+  ]
+}
+
+    
