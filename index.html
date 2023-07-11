@@ -120,36 +120,33 @@ left: 15px;
 </div>
 </div>
   
-  <div class="categories" id="categories">
-    <h1 class="cattitle w3-center"><span class="text-right gray">CATEGORY</span></h1>
-    <div class="cat-container">
-      <div class="cat-item"><a href="#movie" class="cat"><i class="fas fa-video fa-lg caticon"></i> Movie & Series </a></div>
-      <div class="cat-item"><a href="#anime" class="cat"><i class="fas fa-paw fa-lg caticon"></i> Anime </a></div>
-      <!-- Add more categories here as needed -->
-    </div>
+<div class="categories" id="categories">
+  <h1 class="cattitle w3-center"><span class="text-right gray">CATEGORY</span></h1>
+  <div class="cat-container">
+    <div class="cat-item"><a href="#movieSection" class="cat"><i class="fas fa-video fa-lg caticon"></i> Movie & Series </a></div>
+    <div class="cat-item"><a href="#animeSection" class="cat"><i class="fas fa-paw fa-lg caticon"></i> Anime </a></div>
   </div>
+</div>
 
-  <div class="section">
-    <div id="movieSection"></div>
-    <div id="animeSection"></div>
-  </div>
+<div class="section" id="movieSection"></div>
+<div class="section" id="animeSection"></div>
 
   <!-- Include necessary JavaScript files and libraries -->
   <script>
     fetch('data.json')
   .then(response => response.json())
   .then(data => {
-    appendSections(data.movies_and_tv_series, '#movie', 'Movie\'s And Tv Series');
-    appendSections(data.anime_websites, '#anime', 'Website For Watching Animes');
+    appendSections(data.movies_and_tv_series, 'movieSection', 'Movie\'s And Tv Series');
+    appendSections(data.anime_websites, 'animeSection', 'Website For Watching Animes');
   })
   .catch(error => console.error(error));
 
 function appendSections(items, sectionId, sectionTitle) {
-  const sectionContainer = document.querySelector('.section');
+  const sectionContainer = document.getElementById(sectionId);
 
   // Create category link
   const categoryLink = document.createElement('a');
-  categoryLink.href = sectionId;
+  categoryLink.href = `#${sectionId}`;
   categoryLink.classList.add('anchor');
   categoryLink.addEventListener('click', scrollToSection);
 
@@ -169,15 +166,10 @@ function appendSections(items, sectionId, sectionTitle) {
   categoryLink.appendChild(categoryIcon);
   categoryLink.appendChild(categoryTitle);
 
-  // Create category container
-  const categoryContainer = document.createElement('div');
-  categoryContainer.classList.add('section');
-
-  // Append category header and container to the section container
+  // Append category header to the section container
   sectionContainer.appendChild(categoryHeader);
-  sectionContainer.appendChild(categoryContainer);
 
-  // Append items to the category container
+  // Append items to the section container
   items.forEach(item => {
     // Create item container
     const container = document.createElement('div');
@@ -236,8 +228,8 @@ function appendSections(items, sectionId, sectionTitle) {
     container.appendChild(appLink);
     container.appendChild(tagsContainer);
 
-    // Append item container to the category container
-    categoryContainer.appendChild(container);
+    // Append item container to the section container
+    sectionContainer.appendChild(container);
   });
 }
 
