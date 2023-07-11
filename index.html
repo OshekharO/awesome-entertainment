@@ -244,7 +244,7 @@ function appendSections(items, sectionId, sectionTitle) {
 function scrollToSection(event) {
   event.preventDefault();
 
-  const targetId = event.target.getAttribute('href');
+  const targetId = this.getAttribute('href');
   const targetElement = document.querySelector(targetId);
 
   if (targetElement) {
