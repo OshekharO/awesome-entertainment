@@ -136,7 +136,7 @@ left: 15px;
 
   <!-- Include necessary JavaScript files and libraries -->
   <script>
-fetch('data.json')
+    fetch('data.json')
   .then(response => response.json())
   .then(data => {
     appendSections(data.movies_and_tv_series, '#movie', 'Movie\'s And Tv Series');
@@ -151,6 +151,7 @@ function appendSections(items, sectionId, sectionTitle) {
   const categoryLink = document.createElement('a');
   categoryLink.href = sectionId;
   categoryLink.classList.add('anchor');
+  categoryLink.addEventListener('click', scrollToSection);
 
   // Create category icon
   const categoryIcon = document.createElement('i');
@@ -229,7 +230,7 @@ function appendSections(items, sectionId, sectionTitle) {
     // Append item title, icon, and tags to the item link
     appLink.appendChild(appTitle);
     appLink.appendChild(appIcon);
-    
+
     // Append item image, link, and tags container to the item container
     container.appendChild(image);
     container.appendChild(appLink);
@@ -239,6 +240,21 @@ function appendSections(items, sectionId, sectionTitle) {
     categoryContainer.appendChild(container);
   });
 }
+
+function scrollToSection(event) {
+  event.preventDefault();
+
+  const targetId = event.target.getAttribute('href');
+  const targetElement = document.querySelector(targetId);
+
+  if (targetElement) {
+    targetElement.scrollIntoView({
+      behavior: 'smooth'
+    });
+  }
+}
+    
   </script>
+    
 </body>
 </html>
