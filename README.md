@@ -89,26 +89,20 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## 📺 Anime
 
-* [Animania](https://animania.co.uk)
-* [Gogoanimeapk](https://gogoanimeapk.net)
-* [9anime](https://9anime.vc)
-* [Tenshi](https://tenshi.moe)
-* [Animekisa](https://animekisa.in)
-* [kiss-anime](https://ww1.kiss-anime.org)
-* [Animixplay](https://animixplay.to)
-* [Simplyaweeb](https://simplyaweeb.to/anime/)
+* [Hianime](https://hianime.to)
+* [GogoAnime](https://gogotaku.info)
+* [Aniwave](https://aniwave.live)
+* [Animeowl](https://animeowl.live/)
+* [KickAssAnime](https://watchanime.io)
+* [Anix](https://anix.vc/)
+* [Gojo](https://gojo.wtf)
 * [Wcostream](https://wcostream.cc)
 * [Kayoanime](https://kayoanime.com)
-* [Anime-World](https://anime-world.in)
-* [123animes](https://123animes.ru)
+* [Animepahe](https://animepahe.ru/)
+* [Shiroko](https://shiroko.co)
 * [Animefox](https://animefox.sbs)
-* [Animeworld](https://www.animeworld.tv)
-* [Allanime](https://allanime.site)
-* [Animeflick](https://animeflick.net)
-* [Gogoanime](https://gogoanime.fi)
-* [Kimanime](https://kimanime.com)
-* [Animet](https://animet.tv)
-* [Zoro](https://zoro.to)
+* [Animeworld](https://anime-world.in/)
+* [Allanime](https://allmanga.to)
 
 ## 🔞 NSFW
 
