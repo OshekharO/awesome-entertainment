@@ -67,25 +67,19 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 ## 🖼️ Manga
 
 * [Manganato](https://manganato.com)
-* [Mangadex](https://mangadex.org)
-* [Mangafreak](https://w12.mangafreak.net)
-* [Mangabat](https://mangabat.com)
+* [MangaDex](https://mangadex.org)
+* [Comick](https://comick.io)
+* [Mangafire](https://mangafire.to)
 * [Mangapark](https://mangapark.net)
-* [Kissmanga](https://kissmanga.org)
-* [Mangatx](https://mangatx.com)
+* [Bato](https://bato.to)
 * [Mangabuddy](https://mangabuddy.com)
 * [Mangapill](https://mangapill.com)
 * [Mangareader](https://mangareader.to)
 * [FanFox](https://m.fanfox.net)
 * [Mangatown](https://m.mangatown.com)
 * [ReadComic](https://readcomiconline.li)
-* [ComicExtra](https://www.comicextra.com)
+* [ComicExtra](https://comixextra.com)
 * [Ninemanga](https://ninemanga.com)
-* [Readm](https://readm.org)
-* [Mangaweed](https://mangaweed.com)
-* [Manhuafast](https://manhuafast.com)
-* [Mangahub](https://mangahub.io)
-* [Mangaowls](https://mangaowls.com)
 
 ## 📺 Anime
 
