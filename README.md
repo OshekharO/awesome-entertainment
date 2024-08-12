@@ -164,13 +164,14 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [SongTube](https://github.com/SongTube/SongTube-App)
 * [NewPipe](https://github.com/TeamNewPipe/NewPipe)
 * [ReVanced](https://github.com/revanced)
-* [NewPipe-SB](https://github.com/polymorphicshade/NewPipe)
+* [NewPipeX](https://github.com/NewPipeX/NewPipeX)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 * [uYouPlus](https://github.com/qnblackcat/uYouPlus)
 * [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
-* [PureTuber](https://4pda.to/forum/index.php?showtopic=1013193)
-* [Sftube](https://github.com/prateekmedia/sftube)
+* [Clipious](https://github.com/lamarios/clipious)
+* [Hyperion](https://github.com/zt64/Hyperion)
+* [pstube](https://github.com/prateekmedia/pstube)
 
 ## 🎧 YouTube Music
 
