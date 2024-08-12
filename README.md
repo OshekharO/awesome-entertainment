@@ -112,30 +112,19 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## 🔞 NSFW
 
-* [Doujins](https://doujins.me)
 * [Manytoon](https://manytoon.com)
 * [nhentai](https://nhentai.net)
 * [Literotica](https://search.literotica.com)
 * [Toonily](https://toonily.me)
 * [Hanime](https://hanime.tv)
 * [Hentaihaven](https://hentaihaven.xxx)
-* [Animeidhentai](https://animeidhentai.com)
-* [18comic](https://18comic.vip)
-* [Eromangram](https://eromangram.com)
-* [Cartoon18](https://www.cartoon18.com)
-* [Raw-Zip](http://raw-zip.com)
-* [9hentai](https://9hentai.to)
 * [Doujins](https://doujins.com)
-* [Fakku](https://www.fakku.net)
 * [Hentaihere](https://hentaihere.com)
 * [Hentai2read](https://hentai2read.com)
 * [Tsumino](https://www.tsumino.com)
 * [8muses](https://comics.8muses.com)
 * [A-hentai](https://a-hentai.tv)
 * [Haho](https://haho.moe)
-* [EhPanda](https://github.com/tatsuz0u/EhPanda)
-* [NClientV2](https://github.com/Dar9586/NClientV2)
-* [Hentoid](https://github.com/avluis/Hentoid)
 
 ## 📱 Application
 
