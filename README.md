@@ -114,6 +114,9 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## 📱 Application
 
+* [Miru](https://github.com/miru-project/miru-app)
+* [CloudStream 3](https://github.com/LagradOst/CloudStream-3)
+* [Flixclusive](https://github.com/rhenwinch/Flixclusive)
 * [CineMax](https://github.com/BeamlakAschalew/cinemax)
 * [AnimeTV](https://github.com/amarullz/AnimeTV)
 * [Mihon](https://github.com/mihonapp/mihon)
@@ -128,9 +131,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Animity](https://github.com/kl3jvi/animity)
 * [Neko](https://github.com/CarlosEsco/Neko)
 * [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
-* [CloudStream 3](https://github.com/LagradOst/CloudStream-3)
 * [Kotatsu](https://github.com/nv95/Kotatsu)
-* [Miru](https://github.com/miru-project/miru-app)
 * [Tokeii](https://github.com/Sovan22/Tokeii)
 * [Myne](https://github.com/Pool-Of-Tears/Myne)
 * [Flixclusive](https://github.com/rhenwinch/Flixclusive)
@@ -169,4 +170,4 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Serenity](https://github.com/YajanaRao/Serenity)
 
 ---
-<h4 align='center'>© 2024 ツ ѕнєкнєя</h4>
+<h4 align='center'>© 2024 ツ OshekharO</h4>
