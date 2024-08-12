@@ -174,14 +174,15 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## 🎧 YouTube Music
 
-* [BlackHole](https://github.com/Sangwan5688/BlackHole)
-* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
+* [InnerTune](https://github.com/z-huang/InnerTune)
+* [spmp](https://github.com/toasterofbread/spmp)
 * [Spotube](https://github.com/KRTirtho/spotube)
-* [HoloPlay](https://github.com/stephane-r/HoloPlay)
-* [MusicPiped](https://github.com/deep-gaurav/MusicPiped)
+* [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+* [RiMusic](https://github.com/fast4x/RiMusic)
 * [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
 * [Ymusic](https://ymusic.io)
 * [Musify](https://github.com/gokadzev/Musify)
+* [Serenity](https://github.com/YajanaRao/Serenity)
 
 ---
-<h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
+<h4 align='center'>© 2024 ツ ѕнєкнєя</h4>
