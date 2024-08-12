@@ -140,21 +140,23 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 ## 📱 Application
 
 * [CineMax](https://github.com/BeamlakAschalew/cinemax)
-* [Shosetsu](https://github.com/shosetsuorg/shosetsu)
 * [LNReader](https://github.com/LNReader/lnreader)
-* [Yukino](https://github.com/rhygg/yukino-app)
+* [IReader](https://github.com/IReaderorg/IReader)
+* [Legado](https://github.com/gedoor/legado)
+* [QuickNovel](https://github.com/LagradOst/QuickNovel)
+* [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap)
 * [OtakuWorld](https://github.com/jakepurple13/OtakuWorld#mangaworld)
-* [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Animity](https://github.com/kl3jvi/animity)
 * [QuickNovel](https://github.com/LagradOst/QuickNovel)
 * [Neko](https://github.com/CarlosEsco/Neko)
 * [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
-* [Tachiyomi](https://tachiyomi.org)
 * [CloudStream 3](https://github.com/LagradOst/CloudStream-3)
-* [Saikou](https://github.com/saikou-app/saikou)
 * [Kotatsu](https://github.com/nv95/Kotatsu)
-* [Cineapp](https://github.com/vendz/Cineapp)
-* [AnimeXStream](https://github.com/mukul500/AnimeXStream)
+* [Miru](https://github.com/miru-project/miru-app)
+* [Tokeii](https://github.com/Sovan22/Tokeii)
+* [Myne](https://github.com/Pool-Of-Tears/Myne)
+* [Flixclusive](https://github.com/rhenwinch/Flixclusive)
+* [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 
 ## 🎭 YouTube Clients
@@ -171,11 +173,14 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
 * [Clipious](https://github.com/lamarios/clipious)
 * [Hyperion](https://github.com/zt64/Hyperion)
+* [Materialious](https://github.com/Materialious/Materialious)
+* [LightTube](https://github.com/lighttube-org/LightTube-Android)
 * [pstube](https://github.com/prateekmedia/pstube)
 
 ## 🎧 YouTube Music
 
 * [InnerTune](https://github.com/z-huang/InnerTune)
+* [namida](https://github.com/namidaco/namida)
 * [spmp](https://github.com/toasterofbread/spmp)
 * [Spotube](https://github.com/KRTirtho/spotube)
 * [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
