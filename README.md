@@ -134,7 +134,6 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Kotatsu](https://github.com/nv95/Kotatsu)
 * [Tokeii](https://github.com/Sovan22/Tokeii)
 * [Myne](https://github.com/Pool-Of-Tears/Myne)
-* [Flixclusive](https://github.com/rhenwinch/Flixclusive)
 * [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 
