@@ -140,6 +140,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 ## 🎭 YouTube Clients
 
 * [LibreTube](https://github.com/libre-tube/LibreTube)
+* [FluxTube](https://github.com/mu-fazil-vk/FluxTube)
 * [VueTube](https://github.com/Frontesque/VueTube)
 * [SongTube](https://github.com/SongTube/SongTube-App)
 * [NewPipe](https://github.com/TeamNewPipe/NewPipe)
@@ -158,6 +159,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 ## 🎧 YouTube Music
 
 * [InnerTune](https://github.com/z-huang/InnerTune)
+* [OuterTune](https://github.com/DD3Boh/OuterTune)
 * [namida](https://github.com/namidaco/namida)
 * [spmp](https://github.com/toasterofbread/spmp)
 * [Spotube](https://github.com/KRTirtho/spotube)
