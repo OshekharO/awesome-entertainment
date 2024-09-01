@@ -158,6 +158,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## 🎧 YouTube Music
 
+* [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 * [InnerTune](https://github.com/z-huang/InnerTune)
 * [OuterTune](https://github.com/DD3Boh/OuterTune)
 * [namida](https://github.com/namidaco/namida)
