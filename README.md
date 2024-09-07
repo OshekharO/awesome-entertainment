@@ -34,6 +34,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Showflix](https://showflix.xyz/)
 * [Tvids](https://www.tvids.net/)
 * [AsianFlix](https://www.asianflix.one)
+* [Sereal](https://www.sereal.com)
 * [MyAsianTv](https://myasiantv.ac)
 * [DramaFull](https://dramafull.net)
 * [GoPlay](https://goplay.pw)
