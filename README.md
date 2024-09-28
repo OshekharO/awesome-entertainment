@@ -42,7 +42,8 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## 📖 Light Novel
 
-* [MTLArchive](https://mtlarchive.com)
+* [MTLNation](https://reader-hub.com)
+* [Fictionzone](https://fictionzone.net)
 * [NovelsEmperor](https://novelsemperor.net/)
 * [TicBic](https://ticbic.com)
 * [MTLNovel](https://www.mtlnovel.com)
@@ -62,6 +63,13 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [txt520](https://www.txt520.com/)
 * [Jpxs123](https://jpxs123.com)
 * [Trxs](https://trxs.cc)
+* [ahfgb](https://m.ahfgb.com)
+* [shuzw3](https://wap.shuzw3.vip)
+* [477zw3](https://m.477zw3.com)
+* [2ltxs](https://www.2ltxs.com)
+* [ali75](https://m.ali75.com)
+* [shu008](http://www.shu008.com)
+* [hongyujixie](https://m.hongyujixie.net)
 
 ## 🖼️ Manga
 
