@@ -6,6 +6,9 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 ## 🎬 Movies & Series
 
+* [CorsFlix](https://corsflix.us.kg/)
+* [345movies](https://www.345movies.com/)
+* [Donkey](https://donkey.to/home)
 * [Prmovies](https://prmovies.my)
 * [Movies2Watch](https://movies2watch.is)
 * [Allmoviesforyou](https://anymovie.cc)
@@ -28,7 +31,7 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 * [Dramanice](https://ww3.dramanice.video/)
 * [Kisskh](https://kisskh.co)
 * [Vumoo](https://vumoo.mx/)
-* [Pseudo Flix](https://pseudo-flix.pro)
+* [Vidbinge](https://www.vidbinge.com)
 * [Levidia](https://www.levidia.ch/)
 * [Binged](https://binged.in/)
 * [Showflix](https://showflix.xyz/)
@@ -44,7 +47,6 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕).
 
 * [MTLNation](https://reader-hub.com)
 * [Fictionzone](https://fictionzone.net)
-* [NovelsEmperor](https://novelsemperor.net/)
 * [TicBic](https://ticbic.com)
 * [MTLNovel](https://www.mtlnovel.com)
 * [LNMTL](https://lnmtl.com)
