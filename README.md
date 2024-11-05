@@ -67,7 +67,6 @@
 - 📚 [477zw3](https://m.477zw3.com) - Read light novels and web novels.
 - 📚 [2ltxs](https://www.2ltxs.com) - Read light novels and web novels.
 - 📚 [ali75](https://m.ali75.com) - Read light novels and web novels.
-
 - 📚 [shu008](http://www.shu008.com) - Read light novels and web novels.
 - 📚 [hongyujixie](https://m.hongyujixie.net) - Read light novels and web novels.
 
@@ -82,8 +81,8 @@
 - 📚 [MangaPill](https://mangapill.com) - Read manga and manhwa.
 - 📚 [MangaReader](https://mangareader.to) - Read manga with a clean layout.
 - 📚 [FanFox](https://m.fanfox.net) - Read manga with a user-friendly interface.
-- 📚 [MangaTown](https://m.manga town.com) - Read manga with a clean layout.
-- 📚 [ReadComic](https://readcomic online.li) - Read comics and manga.
+- 📚 [MangaTown](https://m.mangatown.com/) - Read manga with a clean layout.
+- 📚 [ReadComic](https://readcomiconline.li) - Read comics and manga.
 - 📚 [ComicExtra](https://comicextra.com) - Read comics and manga.
 - 📚 [NineManga](https://ninemanga.com) - Read manga with a clean layout.
 
@@ -128,7 +127,7 @@
 - 📱 [Yokai](https://github.com/null2264/yokai) - A modern manga and manhwa reader app.
 - 📱 [Awery](https://github.com/MrBoomDeveloper/Awery) - A powerful manga and manhwa reader app.
 - 📱 [LNReader](https://github.com/LNReader/lnreader) - A light novel reader app.
-- 📱 [IReader](https://github.com/IReaderorg/I reader) - A comprehensive light novel reader app.
+- 📱 [IReader](https://github.com/IReaderorg/IReader) - A comprehensive light novel reader app.
 - 📱 [Legado](https://github.com/gedoor/legado) - A versatile e-book reader app.
 - 📱 [QuickNovel](https://github.com/LagradOst/QuickNovel) - A modern light novel reader app.
 - 📱 [AnimeSc rap](https://github.com/fakeyatogod/AnimeScrap) - A comprehensive anime scraping app.
@@ -151,25 +150,25 @@
 - 🎭 [ReVanced](https://github.com/ReVanced) - A customizable YouTube client.
 - 🎭 [NewPipeX](https://github.com/NewPipeX/NewPipeX) - A feature-rich YouTube client.
 - 🎭 [Sky tube](https://github.com/SkyTubeTeam/SkyTube) - A modern YouTube client.
-- 🎭 [Free tube](https://github.com/FreeTube app/Free tube) - A privacy-focused YouTube client.
-- 🎭 [uYouPlus](https://github.com/qnblackcat/uYou plus) - A powerful YouTube client.
-- 🎭 [Smart tube next](https://github.com/yuliskov/Smart tube next) - A modern YouTube client.
+- 🎭 [Free tube](https://github.com/FreeTubeApp/FreeTube) - A privacy-focused YouTube client.
+- 🎭 [uYouPlus](https://github.com/qnblackcat/uYouPlus) - A powerful YouTube client.
+- 🎭 [Smart tube next](https://github.com/yuliskov/SmartTube) - A modern YouTube client.
 - 🎭 [Clipious](https://github.com/lamarios/clipious) - A lightweight YouTube client.
 - 🎭 [Hyperion](https://github.com/zt64/Hyperion) - A modern YouTube client.
 - 🎭 [Materialious](https://github.com/Materialious/Materialious) - A modern YouTube client.
-- 🎭 [Light tube](https://github.com/lighttube org/Light tube-android) - A lightweight YouTube client.
-- 🎭 [p tube](https://github.com/prateekmedia/p tube) - A modern YouTube client.
+- 🎭 [Light tube](https://github.com/lighttube-org/LightTube-Android) - A lightweight YouTube client.
+- 🎭 [p tube](https://github.com/prateekmedia/pstube) - A modern YouTube client.
 
 ## 🎧 YouTube Music
-- 🎧 [Bloomee tunes](https://github.com/HemantKAry a/Bloomee tunes) - A modern YouTube music player.
-- 🎧 [Inner tune](https://github.com/z-huang/Inner tune) - A powerful YouTube music player.
-- 🎧 [Outer tune](https://github.com/DD3Boh/outer tune) - A modern YouTube music player.
+- 🎧 [Bloomee tunes](https://github.com/HemantKArya/BloomeeTunes) - A modern YouTube music player.
+- 🎧 [Inner tune](https://github.com/z-huang/InnerTune) - A powerful YouTube music player.
+- 🎧 [Outer tune](https://github.com/DD3Boh/OuterTune) - A modern YouTube music player.
 - 🎧 [namida](https://github.com/namidaco/namida) - A modern YouTube music player.
 - 🎧 [spmp](https://github.com/toasterofbread/spmp) - A powerful YouTube music player.
 - 🎧 [Spotube](https://github.com/KRTirtho/spotube) - A modern YouTube music player.
-- 🎧 [Simp music](https://github.com/max rave dev/simp music) - A modern YouTube music player.
-- 🎧 [Ri music](https://github.com/fast4x/ri music) - A powerful YouTube music player.
-- 🎧 [Able music player](https://github.com/udit karode/able music player) - A modern YouTube music player.
+- 🎧 [Simp music](https://github.com/maxrave-dev/SimpMusic) - A modern YouTube music player.
+- 🎧 [Ri music](https://github.com/fast4x/RiMusic) - A powerful YouTube music player.
+- 🎧 [Able music player](https://github.com/uditkarode/AbleMusicPlayer) - A modern YouTube music player.
 - 🎧 [Ymusic](https://ymusic.io) - A modern YouTube music player.
 - 🎧 [Musify](https://github.com/gokadzev/musify) - A powerful YouTube music player.
 - 🎧 [serenity](https://github.com/YajanaRao/Serenity) - A modern YouTube music player.
