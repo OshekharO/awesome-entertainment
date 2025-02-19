@@ -24,7 +24,7 @@
 - 🎥 [UwatchFree](https://uwatchfree.homes) - Free movie and series streaming.
 - 🎥 [WatchToday](https://watchtoday.stream/) - Watch the latest movies and series.
 - 🎥 [9xmovies](https://9xmoviese.sbs) - A wide selection of movies and series.
-- 🎥 [Gimy](https://gimy.news/) - Stream movies and series with a modern interface.
+- 🎥 [Filmex](https://filmex.to) - Stream movies and series with a modern interface.
 - 🎥 [Dramanice](https://ww3.dramanice.video/) - Watch Korean dramas and series.
 - 🎥 [Kisskh](https://kisskh.co) - Stream movies and series with a clean layout.
 - 🎥 [Vumoo](https://vumoo.mx/) - Free movie and series streaming.
@@ -41,9 +41,8 @@
 - 🎥 [Cinevez](https://www.cinevez.mov/) - Stream movies and series with a modern interface.
 
 ## 📖 Light Novel
-- 📚 [MTLNation](https://reader-hub.com) - Read the latest light novels.
 - 📚 [Fictionzone](https://fictionzone.net) - A vast collection of light novels.
-- 📚 [TicBic](https://ticbic.com) - Read light novels and web novels.
+- 📚 [NovelsEmperor](https://novelsemperor.net) - Read light novels and web novels.
 - 📚 [MTLNovel](https://www.mtlnovels.com) - A wide selection of light novels.
 - 📚 [LNMTL](https://lnmtl.com) - Translate and read light novels.
 - 📚 [FANMTL](https://www.fanmtl.com) - Read and translate light novels.
@@ -55,19 +54,9 @@
 - 📚 [Ffxs8](https://www.ffxs8.com) - Read light novels and web novels.
 - 📚 [Feiszw](https://m.feibzw.com) - Read light novels and web novels.
 - 📚 [4ksw](http://www.4ksw.com/) - Read light novels and web novels.
-- 📚 [Shencou](https://m.shencou.com/) - Read light novels and web novels.
 - 📚 [Wangshuge](http://wap.wangshuge.net) - Read light novels and web novels.
-- 📚 [Paozww](https://wap.paozww.com) - Read light novels and web novels.
 - 📚 [txt520](https://www.txt520.com/) - Read light novels and web novels.
-- 📚 [Jpxs123](https://jpxs123.com) - Read light novels and web novels.
 - 📚 [Trxs](https://trxs.cc) - Read light novels and web novels.
-- 📚 [ahfgb](https://m.ahfgb.com) - Read light novels and web novels.
-- 📚 [shuzw3](https://wap.shuzw3.vip) - Read light novels and web novels.
-- 📚 [477zw3](https://m.477zw3.com) - Read light novels and web novels.
-- 📚 [2ltxs](https://www.2ltxs.com) - Read light novels and web novels.
-- 📚 [ali75](https://m.ali75.com) - Read light novels and web novels.
-- 📚 [shu008](http://www.shu008.com) - Read light novels and web novels.
-- 📚 [hongyujixie](https://m.hongyujixie.net) - Read light novels and web novels.
 
 ## 🖼️ Manga
 - 📚 [Manganato](https://manganato.com) - Read the latest manga chapters.
@@ -76,7 +65,7 @@
 - 📚 [MangaFire](https://mangafire.to) - Read manga with a clean layout.
 - 📚 [MangaPark](https://mangapark.net) - Read manga with a user-friendly interface.
 - 📚 [Bato](https://bato.to) - Read manga and manhwa.
-- 📚 [MangaBuddy](https://mangabuddy.com) - Read manga with a modern design.
+- 📚 [WeebCentral](https://weebcentral.com) - Read manga with a modern design.
 - 📚 [MangaPill](https://mangapill.com) - Read manga and manhwa.
 - 📚 [MangaReader](https://mangareader.to) - Read manga with a clean layout.
 - 📚 [FanFox](https://m.fanfox.net) - Read manga with a user-friendly interface.
@@ -117,7 +106,7 @@
 - 🔞 [Haho](https://haho.moe) - Read NSFW manga and manhwa.
 
 ## 📱 Application
-- 📱 [Miru](https://github.com/miru-project/miru-app) - A powerful anime streaming app.
+- 📱 [Miru](https://github.com/Mancrop/mancrop-miru) - A powerful anime streaming app.
 - 📱 [CloudStream 3](https://github.com/LagradOst/CloudStream-3) - A versatile media streaming app.
 - 📱 [Flixclusive](https://github.com/rhenwinch/Flixclusive) - A modern movie and series streaming app.
 - 📱 [CineMax](https://github.com/BeamlakAschalew/cinemax) - A movie and series streaming app.
@@ -174,4 +163,4 @@
 
 ---
 
-<h4 align='center'>© 2024 ツ OshekharO</h4>
+<h4 align='center'>© 2025 ツ OshekharO</h4>
