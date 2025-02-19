@@ -6,25 +6,24 @@
 ## 🎬 Movies & Series
 - 🎥 [CorsFlix](https://corsflix.us.kg/) - Watch movies and series online.
 - 🎥 [345movies](https://www.345movies.com/) - A vast collection of movies and TV shows.
-- 🎥 [Donkey](https://donkey.to/home) - Stream your favorite movies and series.
-- 🎥 [Prmovies](https://prmovies.my) - Free movie streaming with a wide selection.
+- 🎥 [Prmovies](https://prmovies.taxi) - Free movie streaming with a wide selection.
 - 🎥 [Movies2Watch](https://movies2watch.is) - Watch the latest movies and series.
-- 🎥 [Allmoviesforyou](https://anymovie.cc) - All your movie and series needs in one place.
-- 🎥 [M4UHD](https://ww1.m4uhd.tv) - High-quality movie streaming.
-- 🎥 [watchasian](https://watchasian.art) - Watch Asian dramas and movies.
+- 🎥 [FMovie.gg](https://fmovie.gg) - All your movie and series needs in one place.
+- 🎥 [M4UHD](https://ww2.m4uhd.tv) - High-quality movie streaming.
+- 🎥 [MultiMovies](https://multimovies.life) - Watch movies and series online for free.
 - 🎥 [fmovies](https://fmovies.llc) - Free movie streaming with a user-friendly interface.
 - 🎥 [Sflix](https://sflix.to/) - Stream movies and TV shows without ads.
-- 🎥 [Bflix](https://bflix.ru) - Watch movies and series online for free.
+- 🎥 [AlienFlix](https://alienflix.net) - Watch movies and series online for free.
 - 🎥 [Privatehd](https://privatehd.to) - High-definition movie streaming.
-- 🎥 [Primewire](https://ww2.primewire.quest/) - Stream movies and TV shows with ease.
-- 🎥 [Lookmovie2](https://lookmovie2.to) - Watch movies and series online.
-- 🎥 [Downloadhub](https://www.downloadhub.sx/) - Download and stream movies and series.
-- 🎥 [Dvdplay](https://dvdplay.link/) - Stream movies and series in high quality.
+- 🎥 [PopcornMovies](https://popcornmovies.to) - Stream movies and TV shows with ease.
+- 🎥 [IOSMirror](https://iosmirror.cc) - Watch movies and series online.
+- 🎥 [Downloadhub](https://www.downloadhub.si) - Download and stream movies and series.
+- 🎥 [Vidbox](https://vidbox.to) - Stream movies and series in high quality.
 - 🎥 [Foumovies](https://foumovies.pro/) - Free movie streaming with a variety of genres.
-- 🎥 [1tamilmv](https://www.1tamilmv.tf/) - Tamil movies and series.
-- 🎥 [UwatchFree](https://uwatchfree.be) - Free movie and series streaming.
+- 🎥 [1tamilmv](https://www.1tamilmv.gold) - Tamil movies and series.
+- 🎥 [UwatchFree](https://uwatchfree.homes) - Free movie and series streaming.
 - 🎥 [WatchToday](https://watchtoday.stream/) - Watch the latest movies and series.
-- 🎥 [8xmovies](https://8xmovies.college/) - A wide selection of movies and series.
+- 🎥 [9xmovies](https://9xmoviese.sbs) - A wide selection of movies and series.
 - 🎥 [Gimy](https://gimy.news/) - Stream movies and series with a modern interface.
 - 🎥 [Dramanice](https://ww3.dramanice.video/) - Watch Korean dramas and series.
 - 🎥 [Kisskh](https://kisskh.co) - Stream movies and series with a clean layout.
