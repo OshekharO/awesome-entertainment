@@ -46,7 +46,7 @@
 - 📚 [MTLNovel](https://www.mtlnovels.com) - A wide selection of light novels.
 - 📚 [LNMTL](https://lnmtl.com) - Translate and read light novels.
 - 📚 [FANMTL](https://www.fanmtl.com) - Read and translate light novels.
-- 📚 [DaoNov el](https://daonov_el.com) - A vast collection of light novels.
+- 📚 [Wuxiaworld](https://wuxiaworld.site) - A vast collection of light novels.
 - 📚 [Wuxia](https://wuxia.click/) - Read Chinese light novels.
 - 📚 [NovelBuddy](https://novelbuddy.com) - Read light novels and web novels.
 - 📚 [RoyalRoad](https://www.royalroad.com) - A community for light novel readers.
