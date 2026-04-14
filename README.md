@@ -37,6 +37,7 @@
 - 🎥 [Cinemaos](https://cinemaos.live) - All-in-one platform covering movies, series, and anime in one place.
 - 🎥 [M4UHD](https://m4uhd.page) - HD-quality movie streaming with multiple server options.
 - 🎥 [MultiMovies](https://multimovies.nl/) - Extensive library of movies and series available for free.
+- 🎥 [123Movies](https://123movies.direct) - Watch free movies and TV shows online in HD. 550K+ movies, 90K+ TV shows.
 - 🎥 [SpenFlix](https://watch.spencerdevs.xyz) - Netflix-inspired interface offering curated free streaming content.
 - 🎥 [Sflix](https://sflix.ps/) - Ad-free streaming of movies and TV shows with fast servers.
 - 🎥 [IShowMovies](https://ishowmovies.org/) - Large movie and series library with quick-loading servers.
