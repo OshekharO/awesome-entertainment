@@ -471,65 +471,38 @@ a:hover {
    ========================================== */
 .footer {
   border-top: 1px solid var(--ae-border);
-  padding: 3.5rem 1.5rem 2rem;
+  padding: 1.5rem 1rem;
   background: var(--ifm-footer-background-color);
   color: #ffffff;
 }
 
-.footer .container {
-  max-width: 1440px;
-  margin: 0 auto;
-}
-
-.footer__links {
-  margin-bottom: 2.5rem;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-}
-
-.footer__col {
-  padding: 0 1rem;
-}
-
 .footer__copyright {
   margin-bottom: 0;
-  opacity: 0.55;
-  font-size: 0.82rem;
+  opacity: 0.8;
+  font-size: 0.85rem;
   font-weight: 500;
   letter-spacing: -0.01em;
 }
 
 .footer__title {
-  font-weight: 700;
+  font-weight: 600;
   text-transform: uppercase;
-  font-size: 0.68rem;
-  letter-spacing: 0.18em;
-  opacity: 0.5;
-  margin-bottom: 1rem;
-}
-
-.footer__items {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.footer__item {
-  line-height: 1.4;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  opacity: 0.8;
 }
 
 .footer a {
-  color: rgba(255, 255, 255, 0.75) !important;
-  text-decoration: none;
-  font-size: 0.9rem;
-  font-weight: 500;
-  letter-spacing: -0.01em;
-  transition: color 0.2s ease, opacity 0.2s ease;
+  color: var(--ifm-color-primary-lightest) !important;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: color 0.2s ease;
 }
 
 .footer a:hover {
-  color: #ffffff !important;
-  text-decoration: none;
+  color: #ff8080 !important;
+  text-decoration-thickness: 2px;
 }
 
 /* ==========================================
@@ -654,10 +627,6 @@ details summary:hover {
     flex-direction: column;
     gap: 2rem;
   }
-
-  .footer__col {
-    padding: 0;
-  }
 }
 
 @media screen and (max-width: 576px) {
@@ -674,16 +643,15 @@ details summary:hover {
   }
 
   .footer {
-    padding: 2rem 1rem 1.5rem;
+    padding: 0.5rem 1rem;
   }
 
-  .footer__links {
-    margin-bottom: 1.5rem;
-    padding-bottom: 1.5rem;
+  .footer__title {
+    font-size: 0.7rem;
   }
 
-  .footer__col {
-    padding: 0 0.5rem;
+  .footer__item {
+    font-size: 0.85rem;
   }
 
   .button--lg {

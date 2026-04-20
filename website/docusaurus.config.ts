@@ -77,46 +77,20 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Streaming',
+          title: 'Categories',
           items: [
             {label: 'Movies & Series', to: '/docs/movies-series'},
             {label: 'Anime', to: '/docs/anime'},
-            {label: 'Live TV', to: '/docs/live-tv'},
-          ],
-        },
-        {
-          title: 'Reading',
-          items: [
             {label: 'Manga', to: '/docs/manga'},
-            {label: 'Light Novel', to: '/docs/light-novel'},
-          ],
-        },
-        {
-          title: 'Apps & Tools',
-          items: [
             {label: 'Applications', to: '/docs/applications'},
-            {label: 'YouTube Clients', to: '/docs/youtube-clients'},
-            {label: 'YouTube Music', to: '/docs/youtube-music'},
           ],
         },
         {
-          title: 'Project',
+          title: 'More',
           items: [
             {
               label: 'GitHub',
               href: 'https://github.com/OshekharO/awesome-entertainment',
-            },
-            {
-              label: 'Star on GitHub',
-              href: 'https://github.com/OshekharO/awesome-entertainment/stargazers',
-            },
-            {
-              label: 'Report an Issue',
-              href: 'https://github.com/OshekharO/awesome-entertainment/issues',
-            },
-            {
-              label: 'Contribute',
-              href: 'https://github.com/OshekharO/awesome-entertainment/blob/main/CONTRIBUTING.md',
             },
           ],
         },
