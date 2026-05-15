@@ -1,6 +1,8 @@
 # Awesome Entertainment 🎉
 
-> A curated list of actively maintained apps, extensions, and platforms for streaming, manga, anime, and reading.Focused on open-source, stable, and developer-friendly ecosystems.
+<!-- This file is generated from data/listings.json. Edit that file and run npm run generate -->
+
+> A curated list of actively maintained apps, extensions, and platforms for streaming, manga, anime, and reading. Focused on open-source, stable, and developer-friendly ecosystems.
 
 ---
 
@@ -17,15 +19,15 @@
 
 ## 📋 Table of Contents
 
-- [🎬 Movies & Series](#-movies--series)
-- [📺 Live TV](#-live-tv)
-- [📖 Light Novel](#-light-novel)
-- [🖼️ Manga](#️-manga)
-- [📺 Anime](#-anime)
-- [🔞 NSFW](#-nsfw)
-- [📱 Applications](#-applications)
-- [🎭 YouTube Clients](#-youtube-clients)
-- [🎧 YouTube Music](#-youtube-music)
+- [🎬 Movies & Series](#movies-series)
+- [📺 Live TV](#live-tv)
+- [📖 Light Novel](#light-novel)
+- [🖼️ Manga](#manga)
+- [📺 Anime](#anime)
+- [🔞 NSFW](#nsfw)
+- [📱 Applications](#applications)
+- [🎭 YouTube Clients](#youtube-clients)
+- [🎧 YouTube Music](#youtube-music)
 
 ---
 
@@ -55,7 +57,6 @@
 - 🎥 [Cinevez](https://www.cinevez.foo/) - Modern streaming service with well-organized genre categories.
 
 [↑ Back to top](#-table-of-contents)
-
 ---
 
 ## 📺 Live TV
@@ -66,7 +67,6 @@
 - 📡 [Jiotv+](https://index.ironmancreation.workers.dev) - Aggregates Indian streaming platforms including Zee5, JioTV, and YuppTV.
 
 [↑ Back to top](#-table-of-contents)
-
 ---
 
 ## 📖 Light Novel
@@ -84,7 +84,6 @@
 - 📚 [Ranobes](https://ranobes.top) - Extensive catalog of novels with fan-translated and machine-translated chapters.
 
 [↑ Back to top](#-table-of-contents)
-
 ---
 
 ## 🖼️ Manga
@@ -101,7 +100,6 @@
 - 📚 [ReadComic](https://readcomiconline.li) - Large library of Western comics alongside manga titles.
 
 [↑ Back to top](#-table-of-contents)
-
 ---
 
 ## 📺 Anime
@@ -116,7 +114,6 @@
 - 📺 [Animepahe](https://animepahe.ru/) - Compressed high-quality video ideal for users with limited bandwidth.
 
 [↑ Back to top](#-table-of-contents)
-
 ---
 
 ## 🔞 NSFW
@@ -131,7 +128,6 @@
 - 🔞 [Haho](https://haho.moe) - Adult manga and manhwa platform with a clean reading layout.
 
 [↑ Back to top](#-table-of-contents)
-
 ---
 
 ## 📱 Applications
@@ -153,7 +149,6 @@
 - 📱 [Hayai](https://github.com/HayaiApp/hayai) - cherry-picks pieces from across the Tachiyomi ecosystem and adds first-class novel support.
 
 [↑ Back to top](#-table-of-contents)
-
 ---
 
 ## 🎭 YouTube Clients
@@ -169,7 +164,6 @@
 - 🎭 [Materialious](https://github.com/Materialious/Materialious) - Material You-designed web YouTube client powered by the Piped API.
 
 [↑ Back to top](#-table-of-contents)
-
 ---
 
 ## 🎧 YouTube Music

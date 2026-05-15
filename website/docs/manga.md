@@ -4,6 +4,8 @@ title: 🖼️ Manga
 sidebar_position: 5
 ---
 
+{/* This file is generated from data/listings.json. Edit that file and run npm run generate */}
+
 > Read manga, manhwa, manhua, and Western comics online.
 
 - 📚 [Mangakakalot](https://www.mangakakalot.gg/) - Fast manga reader with up-to-date chapter releases and a large library.

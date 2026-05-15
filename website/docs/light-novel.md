@@ -4,6 +4,8 @@ title: 📖 Light Novel
 sidebar_position: 4
 ---
 
+{/* This file is generated from data/listings.json. Edit that file and run npm run generate */}
+
 > Read and translate light novels, web novels, and Chinese fiction online.
 
 - 📚 [WTR-Lab](https://wtr-lab.com/) - Modern light novel reader with dark mode and a broad catalog.

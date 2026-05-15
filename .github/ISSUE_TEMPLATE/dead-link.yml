@@ -1,0 +1,59 @@
+name: "Dead link"
+description: "Report a broken or inaccessible resource link."
+title: "[Dead Link]: "
+labels:
+  - dead-link
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep this list clean and reliable.
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource name
+      description: Name of the listed resource with the broken link.
+      placeholder: "Example: MangaDex"
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: Category where this resource appears.
+      placeholder: "Example: Manga"
+    validations:
+      required: true
+  - type: input
+    id: broken-url
+    attributes:
+      label: Broken URL
+      description: The exact URL that is dead.
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What happened?
+      description: Describe the error shown (404, timeout, domain parked, etc.).
+      placeholder: Explain what you observed when opening the link.
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Optional replacement URL
+      description: If you know a working official replacement, share it here.
+      placeholder: https://new.example.com
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I confirmed this link is currently inaccessible.
+          required: true
+        - label: I checked existing open issues to avoid duplicates.
+          required: true

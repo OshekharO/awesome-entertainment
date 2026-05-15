@@ -4,6 +4,8 @@ title: 🎬 Movies & Series
 sidebar_position: 2
 ---
 
+{/* This file is generated from data/listings.json. Edit that file and run npm run generate */}
+
 > Free web platforms to stream movies, TV shows, and dramas online.
 
 - 🎥 [Prmovies](https://prmovies.tours/) - Free movie and series streaming with a large catalog; no registration required.

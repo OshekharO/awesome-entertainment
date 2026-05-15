@@ -27,7 +27,7 @@ type FeatureItem = {
   title: string;
   description: string;
   link: string;
-  icon: JSX.Element;
+  icon: React.JSX.Element;
 };
 
 const featureList: FeatureItem[] = [

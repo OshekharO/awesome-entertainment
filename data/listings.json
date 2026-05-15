@@ -1,0 +1,476 @@
+{
+  "categories": [
+    {
+      "id": "movies-series",
+      "title": "🎬 Movies & Series",
+      "sidebarPosition": 2,
+      "description": "Free web platforms to stream movies, TV shows, and dramas online.",
+      "entryIcon": "🎥",
+      "entries": [
+        {
+          "name": "Prmovies",
+          "url": "https://prmovies.tours/",
+          "description": "Free movie and series streaming with a large catalog; no registration required."
+        },
+        {
+          "name": "Cinemaos",
+          "url": "https://cinemaos.live",
+          "description": "All-in-one platform covering movies, series, and anime in one place."
+        },
+        {
+          "name": "M4UHD",
+          "url": "https://m4uhd.page",
+          "description": "HD-quality movie streaming with multiple server options."
+        },
+        {
+          "name": "MultiMovies",
+          "url": "https://multimovies.nl/",
+          "description": "Extensive library of movies and series available for free."
+        },
+        {
+          "name": "SpenFlix",
+          "url": "https://watch.spencerdevs.xyz",
+          "description": "Netflix-inspired interface offering curated free streaming content."
+        },
+        {
+          "name": "Sflix",
+          "url": "https://sflix.ps/",
+          "description": "Ad-free streaming of movies and TV shows with fast servers."
+        },
+        {
+          "name": "IShowMovies",
+          "url": "https://ishowmovies.org/",
+          "description": "Large movie and series library with quick-loading servers."
+        },
+        {
+          "name": "Lookmovie2",
+          "url": "https://www.lookmovie2.to/",
+          "description": "Wide selection of movies and series with subtitle support and multiple languages."
+        },
+        {
+          "name": "WeFlix",
+          "url": "https://weflix.to/",
+          "description": "Modern streaming interface with multiple mirror links."
+        },
+        {
+          "name": "Dramanice",
+          "url": "https://ww3.dramanice.video/",
+          "description": "Dedicated platform for Korean dramas and Asian series with subtitles."
+        },
+        {
+          "name": "Kisskh",
+          "url": "https://kisskh.ovh",
+          "description": "Asian drama-focused streaming with a clean, organized layout."
+        },
+        {
+          "name": "Hydraflix",
+          "url": "https://www.hydraflix.vip/home/",
+          "description": "Free streaming platform with multiple quality options."
+        },
+        {
+          "name": "moviedb",
+          "url": "https://www.moviedb.wiki/",
+          "description": "Movie database site with integrated streaming links."
+        },
+        {
+          "name": "Levidia",
+          "url": "https://www.levidia.ch/",
+          "description": "Sleek modern design with fast loading speeds and wide content selection."
+        },
+        {
+          "name": "Watchtv",
+          "url": "https://www.watchtv.click/",
+          "description": "Netflix-like UI offering the latest movies and series for free."
+        },
+        {
+          "name": "Tvids",
+          "url": "https://www.tvids.net/",
+          "description": "Streaming platform with an easy-to-browse, user-friendly interface."
+        },
+        {
+          "name": "Sereal",
+          "url": "https://www.sereal.com",
+          "description": "Curated streaming service with neatly organized content categories."
+        },
+        {
+          "name": "DramaFull",
+          "url": "https://dramafull.co/",
+          "description": "Full-episode streaming of Korean and Asian dramas."
+        },
+        {
+          "name": "GoPlay",
+          "url": "https://goplay.su/",
+          "description": "Free movie and series streaming with multi-server support."
+        },
+        {
+          "name": "Cinevez",
+          "url": "https://www.cinevez.foo/",
+          "description": "Modern streaming service with well-organized genre categories."
+        }
+      ]
+    },
+    {
+      "id": "live-tv",
+      "title": "📺 Live TV",
+      "sidebarPosition": 3,
+      "description": "Stream live television channels from around the world for free.",
+      "entryIcon": "📡",
+      "entries": [
+        {
+          "name": "Global Free TV",
+          "url": "https://www.globalfreetv.com/",
+          "description": "7000+ free live TV channels from 150+ countries; no sign-up needed."
+        },
+        {
+          "name": "Jiotv+",
+          "url": "https://index.ironmancreation.workers.dev",
+          "description": "Aggregates Indian streaming platforms including Zee5, JioTV, and YuppTV."
+        }
+      ]
+    },
+    {
+      "id": "light-novel",
+      "title": "📖 Light Novel",
+      "sidebarPosition": 4,
+      "description": "Read and translate light novels, web novels, and Chinese fiction online.",
+      "entryIcon": "📚",
+      "entries": [
+        {
+          "name": "WTR-Lab",
+          "url": "https://wtr-lab.com/",
+          "description": "Modern light novel reader with dark mode and a broad catalog."
+        },
+        {
+          "name": "MTLBooks",
+          "url": "https://mtlbooks.com",
+          "description": "LN reader with up-to-date chapter releases and a large library."
+        },
+        {
+          "name": "Fictionzone",
+          "url": "https://fictionzone.net",
+          "description": "Large collection of light novels with fast translation updates."
+        },
+        {
+          "name": "LNMTL",
+          "url": "https://lnmtl.com",
+          "description": "Chapter-by-chapter machine translations of popular light novels."
+        },
+        {
+          "name": "FANMTL",
+          "url": "https://www.fanmtl.com",
+          "description": "Fan-sourced novel translations with community ratings and comments."
+        },
+        {
+          "name": "Wuxia",
+          "url": "https://wuxia.click/",
+          "description": "Focused library of Chinese wuxia and martial arts fiction."
+        },
+        {
+          "name": "NovelBuddy",
+          "url": "https://novelbuddy.com",
+          "description": "Web novel reader with bookmarks, reading history, and recommendations."
+        },
+        {
+          "name": "RoyalRoad",
+          "url": "https://www.royalroad.com",
+          "description": "Community platform for original web fiction and independently published light novels."
+        },
+        {
+          "name": "Ranobes",
+          "url": "https://ranobes.top",
+          "description": "Extensive catalog of novels with fan-translated and machine-translated chapters."
+        }
+      ]
+    },
+    {
+      "id": "manga",
+      "title": "🖼️ Manga",
+      "sidebarPosition": 5,
+      "description": "Read manga, manhwa, manhua, and Western comics online.",
+      "entryIcon": "📚",
+      "entries": [
+        {
+          "name": "Mangakakalot",
+          "url": "https://www.mangakakalot.gg/",
+          "description": "Fast manga reader with up-to-date chapter releases and a large library."
+        },
+        {
+          "name": "MangaDex",
+          "url": "https://mangadex.org",
+          "description": "Community-driven scanlation platform supporting 40+ languages."
+        },
+        {
+          "name": "MangaFire",
+          "url": "https://mangafire.to",
+          "description": "High-quality scans with fast, reliable servers."
+        },
+        {
+          "name": "MangaPark",
+          "url": "https://mangapark.net",
+          "description": "Large library featuring chapters from multiple scanlation groups."
+        },
+        {
+          "name": "Bato",
+          "url": "https://bato.to",
+          "description": "Scanlation community platform for manga, manhwa, and manhua."
+        },
+        {
+          "name": "MangaPill",
+          "url": "https://mangapill.com",
+          "description": "Clean, ad-light reader with an extensive manga archive."
+        },
+        {
+          "name": "MangaReader",
+          "url": "https://mangareader.to",
+          "description": "High-quality manga with multiple server options and tracking features."
+        },
+        {
+          "name": "ReadComic",
+          "url": "https://readcomiconline.li",
+          "description": "Large library of Western comics alongside manga titles."
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "title": "📺 Anime",
+      "sidebarPosition": 6,
+      "description": "Stream subbed and dubbed anime series and movies online.",
+      "entryIcon": "📺",
+      "entries": [
+        {
+          "name": "AnimeKai",
+          "url": "https://animekai.pw/",
+          "description": "Premium-quality anime streaming with AniList integration and rich episode info."
+        },
+        {
+          "name": "Kuudere",
+          "url": "https://kuudere.ru/home",
+          "description": "One of the largest anime libraries online."
+        },
+        {
+          "name": "Animetsu",
+          "url": "https://animetsu.live/",
+          "description": "High-quality anime streaming with MyAnimeList sync and auto-next episodes."
+        },
+        {
+          "name": "AniSnatch",
+          "url": "https://anisnatch.top/home",
+          "description": "Low-ad anime streaming offering both dubbed and subbed content."
+        },
+        {
+          "name": "KickAssAnime",
+          "url": "https://kickassanime.cx/",
+          "description": "Anime streaming with video progress tracking and a seasonal schedule."
+        },
+        {
+          "name": "Animepahe",
+          "url": "https://animepahe.ru/",
+          "description": "Compressed high-quality video ideal for users with limited bandwidth."
+        }
+      ]
+    },
+    {
+      "id": "nsfw",
+      "title": "🔞 NSFW",
+      "sidebarPosition": 7,
+      "description": "Adult content platforms. Must be 18+ to access.",
+      "entryIcon": "🔞",
+      "docsLeadType": "warning",
+      "entries": [
+        {
+          "name": "Manytoon",
+          "url": "https://manytoon.com",
+          "description": "Adult webtoon and manga reader with frequent updates."
+        },
+        {
+          "name": "nhentai",
+          "url": "https://nhentai.net",
+          "description": "Large archive of doujinshi and adult manga with tagging support."
+        },
+        {
+          "name": "Literotica",
+          "url": "https://search.literotica.com",
+          "description": "Community platform for erotic fiction and stories across many genres."
+        },
+        {
+          "name": "Toonily",
+          "url": "https://toonily.me",
+          "description": "Adult manhwa platform with high-quality scans and regular updates."
+        },
+        {
+          "name": "Hanime",
+          "url": "https://hanime.tv",
+          "description": "Adult anime streaming with HD quality and organized categories."
+        },
+        {
+          "name": "Haho",
+          "url": "https://haho.moe",
+          "description": "Adult manga and manhwa platform with a clean reading layout."
+        }
+      ]
+    },
+    {
+      "id": "applications",
+      "title": "📱 Applications",
+      "sidebarPosition": 8,
+      "description": "Open-source Android apps for streaming anime, reading manga, novels, and more.",
+      "entryIcon": "📱",
+      "entries": [
+        {
+          "name": "CloudStream 3",
+          "url": "https://github.com/LagradOst/CloudStream-3",
+          "description": "Plugin-based app for streaming movies, series, anime, and live TV."
+        },
+        {
+          "name": "SkyStream",
+          "url": "https://github.com/akashdh11/skystream",
+          "description": "A new, cross-platform media streaming application inspired by CloudStream."
+        },
+        {
+          "name": "Flixclusive",
+          "url": "https://github.com/rhenwinch/Flixclusive",
+          "description": "Material Design movie and series app with a provider plugin system."
+        },
+        {
+          "name": "Mihon",
+          "url": "https://github.com/mihonapp/mihon",
+          "description": "Open-source manga reader (Tachiyomi successor) with a vast extension library."
+        },
+        {
+          "name": "Yokai",
+          "url": "https://github.com/null2264/yokai",
+          "description": "Tachiyomi fork with enhanced UI and additional reading features."
+        },
+        {
+          "name": "LNReader",
+          "url": "https://github.com/LNReader/lnreader",
+          "description": "Dedicated light novel reader with offline downloads and chapter management."
+        },
+        {
+          "name": "IReader",
+          "url": "https://github.com/IReaderorg/IReader",
+          "description": "Extensible e-book and light novel reader with multiple source plugins."
+        },
+        {
+          "name": "Legado",
+          "url": "https://github.com/gedoor/legado",
+          "description": "Feature-rich Chinese e-book reader with broad source support."
+        },
+        {
+          "name": "QuickNovel",
+          "url": "https://github.com/LagradOst/QuickNovel",
+          "description": "Lightweight novel reader app with fast chapter loading."
+        },
+        {
+          "name": "Neko",
+          "url": "https://github.com/nekomangaorg/Neko",
+          "description": "MangaDex-focused manga reader with offline reading and tracking."
+        },
+        {
+          "name": "TachiyomiSY",
+          "url": "https://github.com/jobobby04/TachiyomiSY",
+          "description": "Extended Tachiyomi fork with enhanced source support and tracking options."
+        },
+        {
+          "name": "Myne",
+          "url": "https://github.com/Pool-Of-Tears/Myne",
+          "description": "Open Library e-book downloader and reader with Material Design."
+        },
+        {
+          "name": "Hayai",
+          "url": "https://github.com/HayaiApp/hayai",
+          "description": "cherry-picks pieces from across the Tachiyomi ecosystem and adds first-class novel support."
+        }
+      ]
+    },
+    {
+      "id": "youtube-clients",
+      "title": "🎭 YouTube Clients",
+      "sidebarPosition": 9,
+      "description": "Privacy-friendly and feature-enhanced alternatives to the official YouTube app.",
+      "entryIcon": "🎭",
+      "entries": [
+        {
+          "name": "LibreTube",
+          "url": "https://github.com/libre-tube/LibreTube",
+          "description": "Privacy-focused YouTube client using the Piped API; no Google account required."
+        },
+        {
+          "name": "NewPipe",
+          "url": "https://github.com/TeamNewPipe/NewPipe",
+          "description": "Lightweight client with background play, downloads, and no tracking."
+        },
+        {
+          "name": "Morphe",
+          "url": "https://github.com/MorpheApp",
+          "description": "Customizable YouTube client with a themeable interface."
+        },
+        {
+          "name": "ReVanced",
+          "url": "https://github.com/ReVanced",
+          "description": "YouTube mod featuring ad-blocking, SponsorBlock, and return of dislike counts."
+        },
+        {
+          "name": "FreeTube",
+          "url": "https://github.com/FreeTubeApp/FreeTube",
+          "description": "Desktop YouTube client that stores subscriptions locally without a Google account."
+        },
+        {
+          "name": "SmartTube",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "description": "Ad-free YouTube client optimized for Android TV and set-top boxes."
+        },
+        {
+          "name": "Materialious",
+          "url": "https://github.com/Materialious/Materialious",
+          "description": "Material You-designed web YouTube client powered by the Piped API."
+        }
+      ]
+    },
+    {
+      "id": "youtube-music",
+      "title": "🎧 YouTube Music",
+      "sidebarPosition": 10,
+      "description": "Open-source music players and YouTube Music clients for Android and desktop.",
+      "entryIcon": "🎧",
+      "entries": [
+        {
+          "name": "BloomeeTunes",
+          "url": "https://github.com/HemantKArya/BloomeeTunes",
+          "description": "Music streaming app supporting YouTube, Spotify, and other sources."
+        },
+        {
+          "name": "namida",
+          "url": "https://github.com/namidaco/namida",
+          "description": "Feature-rich local and YouTube music player with advanced queue management."
+        },
+        {
+          "name": "Spotube",
+          "url": "https://github.com/KRTirtho/spotube",
+          "description": "Cross-platform Spotify client using YouTube as a backend; no premium needed."
+        },
+        {
+          "name": "SimpMusic",
+          "url": "https://github.com/maxrave-dev/SimpMusic",
+          "description": "YouTube Music client with lyrics synchronization and offline downloads."
+        },
+        {
+          "name": "AbleMusicPlayer",
+          "url": "https://github.com/uditkarode/AbleMusicPlayer",
+          "description": "YouTube Music client with Spotify playlist import support."
+        },
+        {
+          "name": "Musify",
+          "url": "https://github.com/gokadzev/musify",
+          "description": "Music streaming app with support for multiple services and offline playback."
+        },
+        {
+          "name": "Muzza",
+          "url": "https://github.com/Maloy-Android/Muzza",
+          "description": "Cross-platform music player with YouTube and local library support."
+        }
+      ]
+    }
+  ]
+}

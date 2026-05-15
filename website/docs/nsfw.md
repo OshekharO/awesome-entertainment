@@ -4,8 +4,10 @@ title: 🔞 NSFW
 sidebar_position: 7
 ---
 
+{/* This file is generated from data/listings.json. Edit that file and run npm run generate */}
+
 :::warning
-Adult content. Must be 18+ to access.
+Adult content platforms. Must be 18+ to access.
 :::
 
 - 🔞 [Manytoon](https://manytoon.com) - Adult webtoon and manga reader with frequent updates.

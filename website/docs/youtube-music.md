@@ -4,6 +4,8 @@ title: 🎧 YouTube Music
 sidebar_position: 10
 ---
 
+{/* This file is generated from data/listings.json. Edit that file and run npm run generate */}
+
 > Open-source music players and YouTube Music clients for Android and desktop.
 
 - 🎧 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - Music streaming app supporting YouTube, Spotify, and other sources.

@@ -1,0 +1,44 @@
+name: "Category request"
+description: "Suggest a new category for the awesome list."
+title: "[Category Request]: "
+labels:
+  - category-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose a new category when existing sections are not a good fit.
+  - type: input
+    id: category-name
+    attributes:
+      label: Proposed category name
+      placeholder: "Example: Podcasts"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why is this category needed?
+      description: Explain why current categories are insufficient.
+      placeholder: This category groups resources that are currently scattered...
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example resources
+      description: Share 3–5 high-quality examples with links.
+      placeholder: |
+        - Resource 1 — https://...
+        - Resource 2 — https://...
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I checked the README and website docs and this category does not already exist.
+          required: true
+        - label: My examples are relevant, active, and useful to most users.
+          required: true
