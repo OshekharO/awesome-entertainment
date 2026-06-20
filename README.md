@@ -166,6 +166,7 @@
 [↑ Back to top](#-table-of-contents)
 ---
 
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Create stunning 3D models from text and images using AI.
 ## 🎧 YouTube Music
 
 > Open-source music players and YouTube Music clients for Android and desktop.
