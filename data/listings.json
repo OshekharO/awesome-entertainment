@@ -397,6 +397,11 @@
           "description": "Privacy-focused YouTube client using the Piped API; no Google account required."
         },
         {
+          "name": "Flow",
+          "url": "https://github.com/a-edev/Flow",
+          "description": "Privacy-focused YouTube client; no Google account required."
+        },
+        {
           "name": "NewPipe",
           "url": "https://github.com/TeamNewPipe/NewPipe",
           "description": "Lightweight client with background play, downloads, and no tracking."
@@ -420,6 +425,11 @@
           "name": "SmartTube",
           "url": "https://github.com/yuliskov/SmartTube",
           "description": "Ad-free YouTube client optimized for Android TV and set-top boxes."
+        },
+        {
+          "name": "TizenTubeCobalt",
+          "url": "https://github.com/reisxd/TizenTubeCobalt",
+          "description": "Experience TizenTube on other devices that are not Tizen."
         },
         {
           "name": "Materialious",
