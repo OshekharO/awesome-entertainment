@@ -98,6 +98,7 @@
 - 📚 [MangaPill](https://mangapill.com) - Clean, ad-light reader with an extensive manga archive.
 - 📚 [MangaReader](https://mangareader.to) - High-quality manga with multiple server options and tracking features.
 - 📚 [ReadComic](https://readcomiconline.li) - Large library of Western comics alongside manga titles.
+- 📚 [Konsumr](https://konsumr.com) - Free manga collection tracker with physical edition volume-level tracking, ownership management, and release calendar.
 
 [↑ Back to top](#-table-of-contents)
 ---

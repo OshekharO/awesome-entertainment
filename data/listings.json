@@ -228,6 +228,11 @@
           "name": "ReadComic",
           "url": "https://readcomiconline.li",
           "description": "Large library of Western comics alongside manga titles."
+        },
+        {
+          "name": "Konsumr",
+          "url": "https://konsumr.com",
+          "description": "Free manga collection tracker with physical edition volume-level tracking, ownership management, and release calendar."
         }
       ]
     },
