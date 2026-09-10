@@ -129,7 +129,17 @@ function HomepageHeader() {
   );
 }
 
-function Feature({ title, description, link, icon }: FeatureItem) {
+/*
+ * Performance Optimization (Bolt):
+ * Wrap Feature component in React.memo to prevent unnecessary re-renders of list items
+ * when parent components or context update (e.g. theme switching or context re-renders).
+ */
+const Feature = React.memo(function Feature({
+  title,
+  description,
+  link,
+  icon,
+}: FeatureItem) {
   return (
     <div className={clsx('col col--3', styles.featureCol)}>
       <Link to={link} className={styles.featureLink}>
@@ -145,7 +155,7 @@ function Feature({ title, description, link, icon }: FeatureItem) {
       </Link>
     </div>
   );
-}
+});
 
 function HomepageFeatures() {
   return (
