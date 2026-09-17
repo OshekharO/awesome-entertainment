@@ -118,7 +118,7 @@ function HomepageHeader() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FaGithub size={16} />
+                <FaGithub size={16} aria-hidden="true" />
                 View on GitHub
               </a>
             </div>
