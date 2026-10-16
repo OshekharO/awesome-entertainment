@@ -10,7 +10,6 @@ import {
   FaBook,
   FaBookOpen,
   FaMobileAlt,
-  FaPaperPlane,
   FaYoutube,
   FaMusic,
   FaGithub,
@@ -73,13 +72,6 @@ const featureList: FeatureItem[] = [
       'Open-source Android apps for streaming, reading manga, anime, and more.',
     link: '/docs/applications',
     icon: <FaMobileAlt size={20} />,
-  },
-  {
-    title: 'Telegram Clients',
-    description:
-      'Alternative and feature-enhanced Telegram clients for Android and desktop.',
-    link: '/docs/telegram-clients',
-    icon: <FaPaperPlane size={20} />,
   },
   {
     title: 'YouTube Clients',

@@ -10,7 +10,6 @@ const sidebars: SidebarsConfig = {
     'anime',
     'nsfw',
     'applications',
-    'telegram-clients',
     'youtube-clients',
     'youtube-music',
   ],
