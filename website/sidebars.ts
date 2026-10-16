@@ -12,6 +12,7 @@ const sidebars: SidebarsConfig = {
     'applications',
     'youtube-clients',
     'youtube-music',
+    'telegram-clients',
   ],
 };
 
