@@ -32,3 +32,4 @@ sidebar_position: 1
 | [📱 Applications](./applications) | Open-source Android apps for streaming and reading |
 | [🎭 YouTube Clients](./youtube-clients) | Privacy-friendly alternatives to the official YouTube app |
 | [🎧 YouTube Music](./youtube-music) | Open-source music players and YouTube Music clients |
+| [✈️ Telegram Clients](./telegram-clients) | Alternative and feature-enhanced Telegram clients for Android and desktop. |
