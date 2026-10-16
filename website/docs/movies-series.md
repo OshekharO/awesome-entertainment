@@ -28,3 +28,4 @@ sidebar_position: 2
 - 🎥 [DramaFull](https://dramafull.co/) - Full-episode streaming of Korean and Asian dramas.
 - 🎥 [GoPlay](https://goplay.su/) - Free movie and series streaming with multi-server support.
 - 🎥 [Cinevez](https://www.cinevez.foo/) - Modern streaming service with well-organized genre categories.
+- 🎥 [FlyStream](https://flystream.net/) - Movies, series, and anime with multiple servers per title, up to 4K, subtitles, and watch parties.
