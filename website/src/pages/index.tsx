@@ -15,6 +15,7 @@ import {
   FaGithub,
   FaStar,
   FaPlay,
+  FaPaperPlane,
 } from 'react-icons/fa';
 
 import styles from './index.module.css';
@@ -86,6 +87,13 @@ const featureList: FeatureItem[] = [
       'Open-source music players and YouTube Music clients for all platforms.',
     link: '/docs/youtube-music',
     icon: <FaMusic size={20} />,
+  },
+  {
+    title: 'Telegram Clients',
+    description:
+      'Alternative and feature-enhanced Telegram clients for Android and desktop.',
+    link: '/docs/telegram-clients',
+    icon: <FaPaperPlane size={20} />,
   },
 ];
 
