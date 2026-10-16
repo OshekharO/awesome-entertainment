@@ -28,6 +28,7 @@
 - [📱 Applications](#applications)
 - [🎭 YouTube Clients](#youtube-clients)
 - [🎧 YouTube Music](#youtube-music)
+- [✈️ Telegram Clients](#telegram-clients)
 
 ---
 
@@ -180,6 +181,19 @@
 - 🎧 [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - YouTube Music client with Spotify playlist import support.
 - 🎧 [Musify](https://github.com/gokadzev/musify) - Music streaming app with support for multiple services and offline playback.
 - 🎧 [Muzza](https://github.com/Maloy-Android/Muzza) - Cross-platform music player with YouTube and local library support.
+
+[↑ Back to top](#-table-of-contents)
+---
+
+## ✈️ Telegram Clients
+
+> Alternative and feature-enhanced Telegram clients for Android and desktop.
+
+- 📱 [entinyGram](https://github.com/entaytion/entinyGram) - Custom-pilled Telegram Android patchset with Ghost Mode, anti-deletion, restrictions bypass, and free AI translation.
+- 📱 [NagramXTurbo](https://github.com/temporaryna/NagramXTurbo) - Fork of the Nagram X Telegram client for Android with bug fixes and focused UX tweaks.
+- 📱 [monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android built with Kotlin, Jetpack Compose, and MTProto in Rust.
+- 📱 [Niagram](https://github.com/HSSkyBoy/Niagram) - Feature-rich Telegram client variant based on NagramX with modern UI enhancements and custom font engine.
+- 📱 [Nagram](https://github.com/nextalone/nagram) - Feature-enhanced third-party Telegram client for Android based on NekoX.
 
 [↑ Back to top](#-table-of-contents)
 

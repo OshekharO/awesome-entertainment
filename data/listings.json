@@ -486,6 +486,40 @@
           "description": "Cross-platform music player with YouTube and local library support."
         }
       ]
+    },
+    {
+      "id": "telegram-clients",
+      "title": "✈️ Telegram Clients",
+      "sidebarPosition": 11,
+      "description": "Alternative and feature-enhanced Telegram clients for Android and desktop.",
+      "entryIcon": "📱",
+      "entries": [
+        {
+          "name": "entinyGram",
+          "url": "https://github.com/entaytion/entinyGram",
+          "description": "Custom-pilled Telegram Android patchset with Ghost Mode, anti-deletion, restrictions bypass, and free AI translation."
+        },
+        {
+          "name": "NagramXTurbo",
+          "url": "https://github.com/temporaryna/NagramXTurbo",
+          "description": "Fork of the Nagram X Telegram client for Android with bug fixes and focused UX tweaks."
+        },
+        {
+          "name": "monogram",
+          "url": "https://github.com/monogram-android/monogram",
+          "description": "Native Telegram client for Android built with Kotlin, Jetpack Compose, and MTProto in Rust."
+        },
+        {
+          "name": "Niagram",
+          "url": "https://github.com/HSSkyBoy/Niagram",
+          "description": "Feature-rich Telegram client variant based on NagramX with modern UI enhancements and custom font engine."
+        },
+        {
+          "name": "Nagram",
+          "url": "https://github.com/nextalone/nagram",
+          "description": "Feature-enhanced third-party Telegram client for Android based on NekoX."
+        }
+      ]
     }
   ]
 }
