@@ -29,6 +29,7 @@
 - [🎭 YouTube Clients](#youtube-clients)
 - [🎧 YouTube Music](#youtube-music)
 - [✈️ Telegram Clients](#telegram-clients)
+- [🎮 Games](#games)
 
 ---
 
@@ -194,6 +195,15 @@
 - 📱 [monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android built with Kotlin, Jetpack Compose, and MTProto in Rust.
 - 📱 [Niagram](https://github.com/HSSkyBoy/Niagram) - Feature-rich Telegram client variant based on NagramX with modern UI enhancements and custom font engine.
 - 📱 [Nagram](https://github.com/nextalone/nagram) - Feature-enhanced third-party Telegram client for Android based on NekoX.
+
+[↑ Back to top](#-table-of-contents)
+---
+
+## 🎮 Games
+
+> Free PC, console, and retro game downloads.
+
+- 🎮 [SteamDownload](https://www.steamdownload.cn/?lang=en) - Free downloads for 9,000+ PC, Switch, retro, and mobile games, mirrored on several cloud drives; no registration required.
 
 [↑ Back to top](#-table-of-contents)
 
