@@ -16,6 +16,7 @@ import {
   FaStar,
   FaPlay,
   FaPaperPlane,
+  FaGamepad,
 } from 'react-icons/fa';
 
 import styles from './index.module.css';
@@ -94,6 +95,13 @@ const featureList: FeatureItem[] = [
       'Alternative and feature-enhanced Telegram clients for Android and desktop.',
     link: '/docs/telegram-clients',
     icon: <FaPaperPlane size={20} />,
+  },
+  {
+    title: 'Games',
+    description:
+      'Free PC, console, and retro game downloads.',
+    link: '/docs/games',
+    icon: <FaGamepad size={20} />,
   },
 ];
 

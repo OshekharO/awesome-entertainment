@@ -520,6 +520,20 @@
           "description": "Feature-enhanced third-party Telegram client for Android based on NekoX."
         }
       ]
+    },
+    {
+      "id": "games",
+      "title": "🎮 Games",
+      "sidebarPosition": 12,
+      "description": "Free PC, console, and retro game downloads.",
+      "entryIcon": "🎮",
+      "entries": [
+        {
+          "name": "SteamDownload",
+          "url": "https://www.steamdownload.cn/?lang=en",
+          "description": "Free downloads for 9,000+ PC, Switch, retro, and mobile games, mirrored on several cloud drives; no registration required."
+        }
+      ]
     }
   ]
 }

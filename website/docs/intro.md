@@ -33,3 +33,4 @@ sidebar_position: 1
 | [🎭 YouTube Clients](./youtube-clients) | Privacy-friendly alternatives to the official YouTube app |
 | [🎧 YouTube Music](./youtube-music) | Open-source music players and YouTube Music clients |
 | [✈️ Telegram Clients](./telegram-clients) | Alternative and feature-enhanced Telegram clients for Android and desktop. |
+| [🎮 Games](./games) | Free PC, console, and retro game downloads |
