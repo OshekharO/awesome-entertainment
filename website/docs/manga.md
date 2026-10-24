@@ -16,3 +16,4 @@ sidebar_position: 5
 - 📚 [MangaPill](https://mangapill.com) - Clean, ad-light reader with an extensive manga archive.
 - 📚 [MangaReader](https://mangareader.to) - High-quality manga with multiple server options and tracking features.
 - 📚 [ReadComic](https://readcomiconline.li) - Large library of Western comics alongside manga titles.
+- 📚 [Mangastash](https://mangastash.org/) - Free manga reader with a large ongoing and completed catalog; no signup required.

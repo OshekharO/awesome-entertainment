@@ -233,6 +233,11 @@
           "name": "ReadComic",
           "url": "https://readcomiconline.li",
           "description": "Large library of Western comics alongside manga titles."
+        },
+        {
+          "name": "Mangastash",
+          "url": "https://mangastash.org/",
+          "description": "Free manga reader with a large ongoing and completed catalog; no signup required."
         }
       ]
     },
