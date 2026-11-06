@@ -312,6 +312,11 @@
           "name": "Haho",
           "url": "https://haho.moe",
           "description": "Adult manga and manhwa platform with a clean reading layout."
+        },
+        {
+          "name": "Loopa",
+          "url": "https://github.com/jainikdroid-bit/loopa",
+          "description": "Open-source Android app for RedGIFs and Reddit videos with an ad-free vertical feed, tag search and downloads."
         }
       ]
     },

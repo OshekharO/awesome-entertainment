@@ -128,6 +128,7 @@
 - 🔞 [Toonily](https://toonily.me) - Adult manhwa platform with high-quality scans and regular updates.
 - 🔞 [Hanime](https://hanime.tv) - Adult anime streaming with HD quality and organized categories.
 - 🔞 [Haho](https://haho.moe) - Adult manga and manhwa platform with a clean reading layout.
+- 🔞 [Loopa](https://github.com/jainikdroid-bit/loopa) - Open-source Android app for RedGIFs and Reddit videos with an ad-free vertical feed, tag search and downloads.
 
 [↑ Back to top](#-table-of-contents)
 ---
